@@ -10,11 +10,12 @@ import re
 from pymongo import MongoClient
 from lokka.items import LokkaItem
 
-client = MongoClient()
-collection = client['lokkame']['blog']
-
 
 class LokkaPipeline:
+    def open_spider(self, spider):
+        client = MongoClient()
+        self.collection = client['lokkame']['blog']
+    #
     def process_item(self, item, spider):
         # 用 spider.name 判断
         # if spider.name == 'lokkame':
@@ -24,7 +25,7 @@ class LokkaPipeline:
         if isinstance(item, LokkaItem):
             item['content'] = self.process_content(item['content'])
             print(item)
-            collection.insert(dict(item))  # 插入数据库
+            self.collection.insert(dict(item))  # 插入数据库
 
         return item
 

@@ -6,12 +6,6 @@
 import scrapy
 
 
-class DoubanItem(scrapy.Item):
-    # define the fields for your item here like:
-    # name = scrapy.Field()
-    pass
-
-
 class MovieItem(scrapy.Item):
     name = scrapy.Field()
     date_published = scrapy.Field()
@@ -29,4 +23,33 @@ class MovieItem(scrapy.Item):
     language = scrapy.Field()
     alias = scrapy.Field()
 
+
+class BookItem(scrapy.Item):
+    name = scrapy.Field()
+    author = scrapy.Field()
+    url = scrapy.Field()
+    isbn = scrapy.Field()
+
+    # 封面图片
+    image = scrapy.Field()
+    # 出版社
+    press = scrapy.Field()
+    # 出品方
+    producer = scrapy.Field()
+    # 副标题
+    subtitle = scrapy.Field()
+    # 原作名
+    original_title = scrapy.Field()
+    # 译者
+    translator = scrapy.Field()
+    # 出版日期
+    pub_date = scrapy.Field()
+    # 页数
+    paginal_num = scrapy.Field()
+    # 定价
+    price = scrapy.Field()
+    # 装帧
+    binding = scrapy.Field()
+    # 丛书
+    series = scrapy.Field()
 

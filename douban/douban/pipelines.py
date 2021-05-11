@@ -14,10 +14,22 @@ class DoubanPipeline:
         client = MongoClient()
         if spider.name == 'movie':
             self.collection = client['douban']['movie']
+        elif spider.name == 'book':
+            self.collection = client['douban']['book']
 
     def process_item(self, item, spider):
         if spider.name == 'movie':
             self.collection.insert(dict(item))
             # print(item)
 
+        if spider.name == 'book':
+            for key in item:
+                if isinstance(item[key], str) and item[key] == '':
+                    item[key] = None
+                elif isinstance(item[key], list):
+                    item[key] = [i for i in item[key] if i != '']
+            self.collection.insert(dict(item))
+            # print(item)
+
         return item
+

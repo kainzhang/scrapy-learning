@@ -24,3 +24,9 @@ class MovieItem(scrapy.Item):
     description = scrapy.Field()
     image = scrapy.Field()
     url = scrapy.Field()
+
+    region = scrapy.Field()
+    language = scrapy.Field()
+    alias = scrapy.Field()
+
+

@@ -29,6 +29,13 @@ class MovieSpider(scrapy.Spider):
                 callback=self.parse
             )
 
+        # 单条测试
+        # yield scrapy.Request(
+        #     'https://movie.douban.com/subject/1292722/',
+        #     callback=self.parse_info
+        # )
+
+
     # 获取电影详细信息
     def parse_info(self, response):
         item = MovieItem()
@@ -47,4 +54,17 @@ class MovieSpider(scrapy.Spider):
         item['director'] = [d['name'] for d in data['director']]
         item['author'] = [a['name'] for a in data['author']]
         item['actor'] = [a['name'] for a in data['actor']]
+
+        # json 中不包含的数据
+        data_aug = response.xpath('//div[@id="info"]')
+        item['region'] = data_aug.xpath(
+            'normalize-space(./span[contains(./text(), "制片国家/地区:")]/following::text()[1])'
+        ).extract_first().split(' / ')
+        item['language'] = data_aug.xpath(
+            'normalize-space(./span[contains(./text(), "语言:")]/following::text()[1])'
+        ).extract_first().split(' / ')
+        item['alias'] = data_aug.xpath(
+            'normalize-space(./span[contains(./text(), "又名:")]/following::text()[1])'
+        ).extract_first().split(' / ')
+
         yield item

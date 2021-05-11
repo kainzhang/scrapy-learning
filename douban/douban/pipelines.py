@@ -12,10 +12,12 @@ from pymongo import MongoClient
 class DoubanPipeline:
     def open_spider(self, spider):
         client = MongoClient()
-        self.dbs = client['douban']
+        if spider.name == 'movie':
+            self.collection = client['douban']['movie']
 
     def process_item(self, item, spider):
         if spider.name == 'movie':
-            self.dbs['movie'].insert(dict(item))
+            self.collection.insert(dict(item))
+            # print(item)
 
         return item

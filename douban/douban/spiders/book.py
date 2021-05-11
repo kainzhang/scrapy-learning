@@ -30,7 +30,7 @@ class BookSpider(scrapy.Spider):
 
         # 单条测试
         # yield scrapy.Request(
-        #     'https://book.douban.com/subject/1007305/',
+        #     'https://book.douban.com/subject/6082808/',
         #     self.parse_info
         # )
 
@@ -46,7 +46,15 @@ class BookSpider(scrapy.Spider):
         item['isbn'] = data['isbn']
 
         # Json 中没有的信息
-        item['image'] = response.xpath('//a[@class="nbg"]/@href').extract_first()
+        # 评分
+        item['rating_value'] = response.xpath(
+            'normalize-space(//strong[@class="ll rating_num "]/text())'
+        ).extract_first()
+        # 封面图片
+        item['image'] = response.xpath(
+            '//a[@class="nbg"]/@href'
+        ).extract_first()
+
         data_aug = response.xpath('//div[@id="info"]')
         # 出版社
         item['press'] = data_aug.xpath(

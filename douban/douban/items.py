@@ -30,6 +30,9 @@ class BookItem(scrapy.Item):
     url = scrapy.Field()
     isbn = scrapy.Field()
 
+    # 评分
+    rating_value = scrapy.Field()
+
     # 封面图片
     image = scrapy.Field()
     # 出版社

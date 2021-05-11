@@ -1,27 +1,6 @@
 [{
   "_id": {
-    "$oid": "609a284c68cb1488fa604e3e"
-  },
-  "name": "三国演义（全二册）",
-  "author": [
-    "[明] 罗贯中"
-  ],
-  "url": "https://book.douban.com/subject/1019568/",
-  "isbn": "9787020008728",
-  "image": "https://img2.doubanio.com/view/subject/l/public/s1076932.jpg",
-  "press": "人民文学出版社",
-  "producer": null,
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "1998-05",
-  "paginal_num": "990",
-  "price": "39.50元",
-  "binding": "平装",
-  "series": "中国古典文学读本丛书"
-},{
-  "_id": {
-    "$oid": "609a284e68cb1488fa604e3f"
+    "$oid": "609a3d0a5c71c2fa96292d28"
   },
   "name": "三体全集",
   "author": [
@@ -29,6 +8,7 @@
   ],
   "url": "https://book.douban.com/subject/6518605/",
   "isbn": "9787229042066",
+  "rating_value": "9.4",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28357056.jpg",
   "press": "重庆出版社",
   "producer": "科幻世界",
@@ -42,7 +22,7 @@
   "series": "科幻世界·中国科幻基石丛书"
 },{
   "_id": {
-    "$oid": "609a285168cb1488fa604e40"
+    "$oid": "609a3d0b5c71c2fa96292d29"
   },
   "name": "飘",
   "author": [
@@ -50,6 +30,7 @@
   ],
   "url": "https://book.douban.com/subject/1068920/",
   "isbn": "9787806570920",
+  "rating_value": "9.3",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1078958.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -65,7 +46,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a285468cb1488fa604e41"
+    "$oid": "609a3d0e5c71c2fa96292d2a"
   },
   "name": "1984",
   "author": [
@@ -73,6 +54,7 @@
   ],
   "url": "https://book.douban.com/subject/4820710/",
   "isbn": "9787530210291",
+  "rating_value": "9.3",
   "image": "https://img1.doubanio.com/view/subject/l/public/s4371408.jpg",
   "press": "北京十月文艺出版社",
   "producer": "新经典文化",
@@ -88,7 +70,7 @@
   "series": "新经典文库：桂冠文丛"
 },{
   "_id": {
-    "$oid": "609a285668cb1488fa604e42"
+    "$oid": "609a3d105c71c2fa96292d2b"
   },
   "name": "百年孤独",
   "author": [
@@ -96,6 +78,7 @@
   ],
   "url": "https://book.douban.com/subject/6082808/",
   "isbn": "9787544253994",
+  "rating_value": "9.3",
   "image": "https://img3.doubanio.com/view/subject/l/public/s27237850.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -111,7 +94,7 @@
   "series": "新经典文库：加西亚·马尔克斯作品"
 },{
   "_id": {
-    "$oid": "609a285868cb1488fa604e43"
+    "$oid": "609a3d135c71c2fa96292d2c"
   },
   "name": "活着",
   "author": [
@@ -119,6 +102,7 @@
   ],
   "url": "https://book.douban.com/subject/4913064/",
   "isbn": "9787506365437",
+  "rating_value": "9.4",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29053580.jpg",
   "press": "作家出版社",
   "producer": null,
@@ -132,7 +116,7 @@
   "series": "余华作品（2012版）"
 },{
   "_id": {
-    "$oid": "609a285b68cb1488fa604e44"
+    "$oid": "609a3d165c71c2fa96292d2d"
   },
   "name": "红楼梦",
   "author": [
@@ -141,6 +125,7 @@
   ],
   "url": "https://book.douban.com/subject/1007305/",
   "isbn": "9787020002207",
+  "rating_value": "9.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1070959.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -154,7 +139,7 @@
   "series": "中国古典文学读本丛书"
 },{
   "_id": {
-    "$oid": "609a285f68cb1488fa604e45"
+    "$oid": "609a3d195c71c2fa96292d2e"
   },
   "name": "人类简史",
   "author": [
@@ -162,6 +147,7 @@
   ],
   "url": "https://book.douban.com/subject/25985021/",
   "isbn": "9787508647357",
+  "rating_value": "9.1",
   "image": "https://img2.doubanio.com/view/subject/l/public/s27814883.jpg",
   "press": "中信出版社",
   "producer": "见识城邦",
@@ -177,7 +163,7 @@
   "series": "“中信史学大师畅销经典”系列"
 },{
   "_id": {
-    "$oid": "609a286268cb1488fa604e46"
+    "$oid": "609a3d1c5c71c2fa96292d2f"
   },
   "name": "霍乱时期的爱情",
   "author": [
@@ -185,6 +171,7 @@
   ],
   "url": "https://book.douban.com/subject/10594787/",
   "isbn": "9787544258975",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s11284102.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -200,7 +187,7 @@
   "series": "新经典文库：加西亚·马尔克斯作品"
 },{
   "_id": {
-    "$oid": "609a286468cb1488fa604e47"
+    "$oid": "609a3d1e5c71c2fa96292d30"
   },
   "name": "围城",
   "author": [
@@ -208,6 +195,7 @@
   ],
   "url": "https://book.douban.com/subject/1008145/",
   "isbn": "9787020024759",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1070222.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -221,7 +209,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a286668cb1488fa604e48"
+    "$oid": "609a3d205c71c2fa96292d31"
   },
   "name": "哈利·波特",
   "author": [
@@ -229,6 +217,7 @@
   ],
   "url": "https://book.douban.com/subject/24531956/",
   "isbn": "9787020096695",
+  "rating_value": "9.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s29101586.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -246,7 +235,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a286968cb1488fa604e49"
+    "$oid": "609a3d225c71c2fa96292d32"
   },
   "name": "平凡的世界（全三部）",
   "author": [
@@ -254,6 +243,7 @@
   ],
   "url": "https://book.douban.com/subject/1200840/",
   "isbn": "9787020049295",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1144911.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -267,7 +257,7 @@
   "series": "茅盾文学奖获奖作品全集"
 },{
   "_id": {
-    "$oid": "609a286c68cb1488fa604e4a"
+    "$oid": "609a3d265c71c2fa96292d33"
   },
   "name": "局外人",
   "author": [
@@ -275,6 +265,7 @@
   ],
   "url": "https://book.douban.com/subject/4908885/",
   "isbn": "9787532751471",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4468484.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -290,7 +281,7 @@
   "series": "译文经典（精装本）"
 },{
   "_id": {
-    "$oid": "609a286e68cb1488fa604e4b"
+    "$oid": "609a3d285c71c2fa96292d34"
   },
   "name": "明朝那些事儿（1-9）",
   "author": [
@@ -298,6 +289,7 @@
   ],
   "url": "https://book.douban.com/subject/3674537/",
   "isbn": "9787801656087",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s3745215.jpg",
   "press": "中国海关出版社",
   "producer": "磨铁图书",
@@ -311,7 +303,7 @@
   "series": "明朝那些事儿（典藏本）"
 },{
   "_id": {
-    "$oid": "609a287168cb1488fa604e4c"
+    "$oid": "609a3d2b5c71c2fa96292d35"
   },
   "name": "杀死一只知更鸟",
   "author": [
@@ -319,6 +311,7 @@
   ],
   "url": "https://book.douban.com/subject/6781808/",
   "isbn": "9787544722766",
+  "rating_value": "9.2",
   "image": "https://img2.doubanio.com/view/subject/l/public/s23128183.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -334,7 +327,7 @@
   "series": "译林纪念版"
 },{
   "_id": {
-    "$oid": "609a287368cb1488fa604e4d"
+    "$oid": "609a3d2e5c71c2fa96292d36"
   },
   "name": "沉默的大多数",
   "author": [
@@ -342,6 +335,7 @@
   ],
   "url": "https://book.douban.com/subject/1054685/",
   "isbn": "9787500627098",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1447349.jpg",
   "press": "中国青年出版社",
   "producer": null,
@@ -355,7 +349,7 @@
   "series": "王小波作品系列"
 },{
   "_id": {
-    "$oid": "609a287668cb1488fa604e4e"
+    "$oid": "609a3d305c71c2fa96292d37"
   },
   "name": "冰与火之歌（卷一）",
   "author": [
@@ -363,6 +357,7 @@
   ],
   "url": "https://book.douban.com/subject/1336330/",
   "isbn": "9787536671256",
+  "rating_value": "9.3",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1358984.jpg",
   "press": "重庆出版社",
   "producer": null,
@@ -379,7 +374,7 @@
   "series": "独角兽书系"
 },{
   "_id": {
-    "$oid": "609a287768cb1488fa604e4f"
+    "$oid": "609a3d325c71c2fa96292d38"
   },
   "name": "安徒生童话故事集",
   "author": [
@@ -387,6 +382,7 @@
   ],
   "url": "https://book.douban.com/subject/1046209/",
   "isbn": "9787020017713",
+  "rating_value": "9.2",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1034062.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -402,7 +398,7 @@
   "series": "世界文学名著文库"
 },{
   "_id": {
-    "$oid": "609a287a68cb1488fa604e50"
+    "$oid": "609a3d345c71c2fa96292d39"
   },
   "name": "撒哈拉的故事",
   "author": [
@@ -410,6 +406,7 @@
   ],
   "url": "https://book.douban.com/subject/1060068/",
   "isbn": "9787806398791",
+  "rating_value": "9.2",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1066570.jpg",
   "press": "哈尔滨出版社",
   "producer": "华文天下",
@@ -423,7 +420,7 @@
   "series": "三毛全集（华文天下2003版）"
 },{
   "_id": {
-    "$oid": "609a287b68cb1488fa604e51"
+    "$oid": "609a3d375c71c2fa96292d3a"
   },
   "name": "天龙八部",
   "author": [
@@ -431,6 +428,7 @@
   ],
   "url": "https://book.douban.com/subject/1255625/",
   "isbn": "9787108006721",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s26018275.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -444,7 +442,7 @@
   "series": "金庸作品集（三联版）"
 },{
   "_id": {
-    "$oid": "609a287f68cb1488fa604e52"
+    "$oid": "609a3d3b5c71c2fa96292d3b"
   },
   "name": "小王子",
   "author": [
@@ -452,6 +450,7 @@
   ],
   "url": "https://book.douban.com/subject/1084336/",
   "isbn": "9787020042494",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1103152.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -467,7 +466,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a288168cb1488fa604e53"
+    "$oid": "609a3d3d5c71c2fa96292d3c"
   },
   "name": "福尔摩斯探案全集（上中下）",
   "author": [
@@ -475,6 +474,7 @@
   ],
   "url": "https://book.douban.com/subject/1040211/",
   "isbn": "9787501408580",
+  "rating_value": "9.3",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1229240.jpg",
   "press": "群众出版社",
   "producer": null,
@@ -490,7 +490,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a288468cb1488fa604e54"
+    "$oid": "609a3d3f5c71c2fa96292d3d"
   },
   "name": "白夜行",
   "author": [
@@ -498,6 +498,7 @@
   ],
   "url": "https://book.douban.com/subject/10554308/",
   "isbn": "9787544258609",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s24514468.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -513,7 +514,7 @@
   "series": "新经典文库·东野圭吾作品"
 },{
   "_id": {
-    "$oid": "609a288868cb1488fa604e55"
+    "$oid": "609a3d445c71c2fa96292d3e"
   },
   "name": "无人生还",
   "author": [
@@ -521,6 +522,7 @@
   ],
   "url": "https://book.douban.com/subject/3006581/",
   "isbn": "9787020065394",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s2962510.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -536,7 +538,7 @@
   "series": "阿加莎·克里斯蒂侦探推理系列"
 },{
   "_id": {
-    "$oid": "609a288a68cb1488fa604e56"
+    "$oid": "609a3d465c71c2fa96292d3f"
   },
   "name": "野草",
   "author": [
@@ -544,6 +546,7 @@
   ],
   "url": "https://book.douban.com/subject/1915958/",
   "isbn": "10019-1981",
+  "rating_value": "9.4",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2364689.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -557,7 +560,7 @@
   "series": "鲁迅作品集"
 },{
   "_id": {
-    "$oid": "609a288c68cb1488fa604e57"
+    "$oid": "609a3d485c71c2fa96292d40"
   },
   "name": "黄金时代",
   "author": [
@@ -565,6 +568,7 @@
   ],
   "url": "https://book.douban.com/subject/1089243/",
   "isbn": "9787536025080",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1076372.jpg",
   "press": "花城出版社",
   "producer": null,
@@ -578,7 +582,7 @@
   "series": "王小波《时代三部曲》"
 },{
   "_id": {
-    "$oid": "609a289068cb1488fa604e58"
+    "$oid": "609a3d4c5c71c2fa96292d41"
   },
   "name": "傲慢与偏见",
   "author": [
@@ -586,6 +590,7 @@
   ],
   "url": "https://book.douban.com/subject/1083428/",
   "isbn": "9787020040179",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s4250062.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -602,7 +607,7 @@
   "series": "名著名译插图本"
 },{
   "_id": {
-    "$oid": "609a289168cb1488fa604e59"
+    "$oid": "609a3d4e5c71c2fa96292d42"
   },
   "name": "格林童话全集",
   "author": [
@@ -610,6 +615,7 @@
   ],
   "url": "https://book.douban.com/subject/1043008/",
   "isbn": "9787020019526",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1134341.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -625,7 +631,7 @@
   "series": "世界文学名著文库"
 },{
   "_id": {
-    "$oid": "609a289468cb1488fa604e5a"
+    "$oid": "609a3d505c71c2fa96292d43"
   },
   "name": "射雕英雄传（全四册）",
   "author": [
@@ -633,6 +639,7 @@
   ],
   "url": "https://book.douban.com/subject/1044547/",
   "isbn": "9787108012586",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2157336.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -646,7 +653,7 @@
   "series": "金庸作品集（三联口袋本）"
 },{
   "_id": {
-    "$oid": "609a289768cb1488fa604e5b"
+    "$oid": "609a3d535c71c2fa96292d44"
   },
   "name": "我与地坛",
   "author": [
@@ -654,6 +661,7 @@
   ],
   "url": "https://book.douban.com/subject/1209899/",
   "isbn": "9787531324362",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1151479.jpg",
   "press": "春风文艺出版社",
   "producer": null,
@@ -667,7 +675,7 @@
   "series": "春风文艺社·新经典文库"
 },{
   "_id": {
-    "$oid": "609a289868cb1488fa604e5c"
+    "$oid": "609a3d565c71c2fa96292d45"
   },
   "name": "刀锋",
   "author": [
@@ -675,6 +683,7 @@
   ],
   "url": "https://book.douban.com/subject/2035162/",
   "isbn": "9787532741922",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s2347562.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -690,7 +699,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a289a68cb1488fa604e5d"
+    "$oid": "609a3d585c71c2fa96292d46"
   },
   "name": "寻路中国",
   "author": [
@@ -698,6 +707,7 @@
   ],
   "url": "https://book.douban.com/subject/5414391/",
   "isbn": "9787532752805",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s32271209.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -713,7 +723,7 @@
   "series": "译文纪实"
 },{
   "_id": {
-    "$oid": "609a289d68cb1488fa604e5e"
+    "$oid": "609a3d5c5c71c2fa96292d47"
   },
   "name": "白鹿原",
   "author": [
@@ -721,6 +731,7 @@
   ],
   "url": "https://book.douban.com/subject/10564071/",
   "isbn": "9787020090297",
+  "rating_value": "9.2",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28111905.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -734,7 +745,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a289f68cb1488fa604e5f"
+    "$oid": "609a3d5e5c71c2fa96292d48"
   },
   "name": "城南旧事",
   "author": [
@@ -743,6 +754,7 @@
   ],
   "url": "https://book.douban.com/subject/1254588/",
   "isbn": "9787500652045",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2654869.jpg",
   "press": "中国青年出版社",
   "producer": null,
@@ -756,30 +768,7 @@
   "series": "现当代文学名著系列"
 },{
   "_id": {
-    "$oid": "609a28a268cb1488fa604e60"
-  },
-  "name": "嫌疑人X的献身",
-  "author": [
-    "[日] 东野圭吾"
-  ],
-  "url": "https://book.douban.com/subject/3211779/",
-  "isbn": "9787544241694",
-  "image": "https://img9.doubanio.com/view/subject/l/public/s3254244.jpg",
-  "press": "南海出版公司",
-  "producer": "新经典文化",
-  "subtitle": null,
-  "original_title": "容疑者Xの献身",
-  "translator": [
-    "刘子倩"
-  ],
-  "pub_date": "2008-9",
-  "paginal_num": "251",
-  "price": "28.00",
-  "binding": "精装",
-  "series": "新经典文库·东野圭吾作品"
-},{
-  "_id": {
-    "$oid": "609a28a468cb1488fa604e61"
+    "$oid": "609a3d645c71c2fa96292d49"
   },
   "name": "乡土中国",
   "author": [
@@ -787,6 +776,7 @@
   ],
   "url": "https://book.douban.com/subject/1795079/",
   "isbn": "9787208062153",
+  "rating_value": "9.2",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1762210.jpg",
   "press": "上海人民出版社",
   "producer": null,
@@ -800,7 +790,7 @@
   "series": "名家名著·文化史"
 },{
   "_id": {
-    "$oid": "609a28a768cb1488fa604e62"
+    "$oid": "609a3d665c71c2fa96292d4a"
   },
   "name": "江城",
   "author": [
@@ -808,6 +798,7 @@
   ],
   "url": "https://book.douban.com/subject/7060185/",
   "isbn": "9787532756728",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s32271204.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -823,7 +814,7 @@
   "series": "译文纪实"
 },{
   "_id": {
-    "$oid": "609a28a868cb1488fa604e63"
+    "$oid": "609a3d6a5c71c2fa96292d4b"
   },
   "name": "万历十五年",
   "author": [
@@ -831,6 +822,7 @@
   ],
   "url": "https://book.douban.com/subject/1041482/",
   "isbn": "9787108009821",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1800355.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -844,7 +836,31 @@
   "series": "黄仁宇作品系列"
 },{
   "_id": {
-    "$oid": "609a28ab68cb1488fa604e64"
+    "$oid": "609a3d6a5c71c2fa96292d4c"
+  },
+  "name": "嫌疑人X的献身",
+  "author": [
+    "[日] 东野圭吾"
+  ],
+  "url": "https://book.douban.com/subject/3211779/",
+  "isbn": "9787544241694",
+  "rating_value": "8.9",
+  "image": "https://img9.doubanio.com/view/subject/l/public/s3254244.jpg",
+  "press": "南海出版公司",
+  "producer": "新经典文化",
+  "subtitle": null,
+  "original_title": "容疑者Xの献身",
+  "translator": [
+    "刘子倩"
+  ],
+  "pub_date": "2008-9",
+  "paginal_num": "251",
+  "price": "28.00",
+  "binding": "精装",
+  "series": "新经典文库·东野圭吾作品"
+},{
+  "_id": {
+    "$oid": "609a3d6b5c71c2fa96292d4d"
   },
   "name": "失踪的孩子",
   "author": [
@@ -852,6 +868,7 @@
   ],
   "url": "https://book.douban.com/subject/30172069/",
   "isbn": "9787020139927",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s29799269.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -867,7 +884,7 @@
   "series": "那不勒斯四部曲"
 },{
   "_id": {
-    "$oid": "609a28b168cb1488fa604e65"
+    "$oid": "609a3d715c71c2fa96292d4e"
   },
   "name": "人间词话",
   "author": [
@@ -875,6 +892,7 @@
   ],
   "url": "https://book.douban.com/subject/1203426/",
   "isbn": "9787532524808",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s9130587.jpg",
   "press": "上海古籍出版社",
   "producer": null,
@@ -888,7 +906,7 @@
   "series": "蓬莱阁丛书"
 },{
   "_id": {
-    "$oid": "609a28b268cb1488fa604e66"
+    "$oid": "609a3d735c71c2fa96292d4f"
   },
   "name": "悉达多",
   "author": [
@@ -896,6 +914,7 @@
   ],
   "url": "https://book.douban.com/subject/3406401/",
   "isbn": "9787208081628",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s6790238.jpg",
   "press": "上海人民出版社",
   "producer": "世纪文景",
@@ -912,7 +931,7 @@
   "series": "赫尔曼·黑塞作品系列"
 },{
   "_id": {
-    "$oid": "609a28b568cb1488fa604e67"
+    "$oid": "609a3d755c71c2fa96292d50"
   },
   "name": "罗杰疑案",
   "author": [
@@ -920,6 +939,7 @@
   ],
   "url": "https://book.douban.com/subject/21371175/",
   "isbn": "9787513311236",
+  "rating_value": "9.2",
   "image": "https://img2.doubanio.com/view/subject/l/public/s25814002.jpg",
   "press": "新星出版社",
   "producer": null,
@@ -935,7 +955,7 @@
   "series": "午夜文库·大师系列：阿加莎·克里斯蒂作品"
 },{
   "_id": {
-    "$oid": "609a28b968cb1488fa604e68"
+    "$oid": "609a3d775c71c2fa96292d51"
   },
   "name": "窗边的小豆豆",
   "author": [
@@ -944,6 +964,7 @@
   ],
   "url": "https://book.douban.com/subject/1007914/",
   "isbn": "9787544222976",
+  "rating_value": "8.7",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1067911.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -959,7 +980,7 @@
   "series": "新经典文库·巴学园"
 },{
   "_id": {
-    "$oid": "609a28ba68cb1488fa604e69"
+    "$oid": "609a3d7b5c71c2fa96292d52"
   },
   "name": "永恒的终结",
   "author": [
@@ -967,6 +988,7 @@
   ],
   "url": "https://book.douban.com/subject/25829693/",
   "isbn": "9787539957173",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29555070.jpg",
   "press": "江苏凤凰文艺出版社",
   "producer": "读客文化",
@@ -982,7 +1004,7 @@
   "series": "读客外国小说文库：艾萨克·阿西莫夫作品"
 },{
   "_id": {
-    "$oid": "609a28bc68cb1488fa604e6a"
+    "$oid": "609a3d7d5c71c2fa96292d53"
   },
   "name": "浪潮之巅",
   "author": [
@@ -990,6 +1012,7 @@
   ],
   "url": "https://book.douban.com/subject/6709783/",
   "isbn": "9787121139512",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s6807265.jpg",
   "press": "电子工业出版社",
   "producer": "Just-pub",
@@ -1003,7 +1026,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a28bf68cb1488fa604e6b"
+    "$oid": "609a3d805c71c2fa96292d54"
   },
   "name": "西游记（全二册）",
   "author": [
@@ -1011,6 +1034,7 @@
   ],
   "url": "https://book.douban.com/subject/1029553/",
   "isbn": "9787020008735",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1627374.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -1026,7 +1050,7 @@
   "series": "中国古典文学读本丛书"
 },{
   "_id": {
-    "$oid": "609a28c168cb1488fa604e6c"
+    "$oid": "609a3d825c71c2fa96292d55"
   },
   "name": "诗经",
   "author": [
@@ -1034,6 +1058,7 @@
   ],
   "url": "https://book.douban.com/subject/1883245/",
   "isbn": "9787200065039",
+  "rating_value": "9.4",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1979223.jpg",
   "press": "北京出版社",
   "producer": null,
@@ -1047,7 +1072,7 @@
   "series": "家庭书架·传世经典读库"
 },{
   "_id": {
-    "$oid": "609a28c468cb1488fa604e6d"
+    "$oid": "609a3d855c71c2fa96292d56"
   },
   "name": "灿烂千阳",
   "author": [
@@ -1055,6 +1080,7 @@
   ],
   "url": "https://book.douban.com/subject/2143732/",
   "isbn": "9787208072107",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2651394.jpg",
   "press": "上海人民出版社",
   "producer": "世纪文景",
@@ -1070,7 +1096,7 @@
   "series": "卡勒德·胡赛尼作品"
 },{
   "_id": {
-    "$oid": "609a28c668cb1488fa604e6e"
+    "$oid": "609a3d885c71c2fa96292d57"
   },
   "name": "哭泣的骆驼",
   "author": [
@@ -1078,6 +1104,7 @@
   ],
   "url": "https://book.douban.com/subject/1029111/",
   "isbn": "9787806399071",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1020454.jpg",
   "press": "哈尔滨出版社",
   "producer": "华文天下",
@@ -1091,7 +1118,7 @@
   "series": "三毛全集（华文天下2003版）"
 },{
   "_id": {
-    "$oid": "609a28c968cb1488fa604e6f"
+    "$oid": "609a3d8a5c71c2fa96292d58"
   },
   "name": "台北人",
   "author": [
@@ -1099,6 +1126,7 @@
   ],
   "url": "https://book.douban.com/subject/5337248/",
   "isbn": "9787563397648",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4526465.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -1112,7 +1140,7 @@
   "series": "理想国·白先勇作品"
 },{
   "_id": {
-    "$oid": "609a28cb68cb1488fa604e70"
+    "$oid": "609a3d8d5c71c2fa96292d59"
   },
   "name": "看见",
   "author": [
@@ -1120,6 +1148,7 @@
   ],
   "url": "https://book.douban.com/subject/20427187/",
   "isbn": "9787549529322",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s24468373.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -1133,28 +1162,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a28cd68cb1488fa604e71"
-  },
-  "name": "上帝掷骰子吗",
-  "author": [
-    "曹天元"
-  ],
-  "url": "https://book.douban.com/subject/1467022/",
-  "isbn": "9787538276374",
-  "image": "https://img9.doubanio.com/view/subject/l/public/s1486674.jpg",
-  "press": "辽宁教育出版社",
-  "producer": "磨铁图书",
-  "subtitle": "量子物理史话",
-  "original_title": null,
-  "translator": [],
-  "pub_date": "2006-1",
-  "paginal_num": "369",
-  "price": "32.00元",
-  "binding": "平装",
-  "series": null
-},{
-  "_id": {
-    "$oid": "609a28d068cb1488fa604e72"
+    "$oid": "609a3d935c71c2fa96292d5a"
   },
   "name": "卡拉马佐夫兄弟",
   "author": [
@@ -1162,6 +1170,7 @@
   ],
   "url": "https://book.douban.com/subject/1856494/",
   "isbn": "9787532740086",
+  "rating_value": "9.4",
   "image": "https://img3.doubanio.com/view/subject/l/public/s2059791.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -1177,7 +1186,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a28d268cb1488fa604e73"
+    "$oid": "609a3d945c71c2fa96292d5b"
   },
   "name": "悲惨世界（上中下）",
   "author": [
@@ -1185,6 +1194,7 @@
   ],
   "url": "https://book.douban.com/subject/1205054/",
   "isbn": "9787020017164",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4521754.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -1201,7 +1211,7 @@
   "series": "外国古典文学名著选粹"
 },{
   "_id": {
-    "$oid": "609a28d468cb1488fa604e74"
+    "$oid": "609a3d965c71c2fa96292d5c"
   },
   "name": "文学回忆录",
   "author": [
@@ -1210,6 +1220,7 @@
   ],
   "url": "https://book.douban.com/subject/20440644/",
   "isbn": "9787549530816",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s24611679.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -1223,7 +1234,29 @@
   "series": "理想国·木心作品"
 },{
   "_id": {
-    "$oid": "609a28d968cb1488fa604e75"
+    "$oid": "609a3d965c71c2fa96292d5d"
+  },
+  "name": "上帝掷骰子吗",
+  "author": [
+    "曹天元"
+  ],
+  "url": "https://book.douban.com/subject/1467022/",
+  "isbn": "9787538276374",
+  "rating_value": "9.2",
+  "image": "https://img9.doubanio.com/view/subject/l/public/s1486674.jpg",
+  "press": "辽宁教育出版社",
+  "producer": "磨铁图书",
+  "subtitle": "量子物理史话",
+  "original_title": null,
+  "translator": [],
+  "pub_date": "2006-1",
+  "paginal_num": "369",
+  "price": "32.00元",
+  "binding": "平装",
+  "series": null
+},{
+  "_id": {
+    "$oid": "609a3d9b5c71c2fa96292d5e"
   },
   "name": "美的历程",
   "author": [
@@ -1231,6 +1264,7 @@
   ],
   "url": "https://book.douban.com/subject/3410718/",
   "isbn": "9787108030375",
+  "rating_value": "9.2",
   "image": "https://img2.doubanio.com/view/subject/l/public/s3893343.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -1244,7 +1278,7 @@
   "series": "李泽厚集"
 },{
   "_id": {
-    "$oid": "609a28db68cb1488fa604e76"
+    "$oid": "609a3d9d5c71c2fa96292d5f"
   },
   "name": "叫魂",
   "author": [
@@ -1252,6 +1286,7 @@
   ],
   "url": "https://book.douban.com/subject/10471333/",
   "isbn": "9787108037909",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s9015481.jpg",
   "press": "生活·读书·新知三联书店 上海三联书店",
   "producer": null,
@@ -1268,7 +1303,7 @@
   "series": "孔飞力著作集"
 },{
   "_id": {
-    "$oid": "609a28e068cb1488fa604e77"
+    "$oid": "609a3da05c71c2fa96292d60"
   },
   "name": "陆犯焉识",
   "author": [
@@ -1276,6 +1311,7 @@
   ],
   "url": "https://book.douban.com/subject/6880158/",
   "isbn": "9787506360876",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s6987353.jpg",
   "press": "作家出版社",
   "producer": null,
@@ -1289,7 +1325,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a28e168cb1488fa604e78"
+    "$oid": "609a3da35c71c2fa96292d61"
   },
   "name": "冬牧场",
   "author": [
@@ -1297,6 +1333,7 @@
   ],
   "url": "https://book.douban.com/subject/10522856/",
   "isbn": "9787513305662",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s8958901.jpg",
   "press": "新星出版社",
   "producer": "新经典文化",
@@ -1310,7 +1347,7 @@
   "series": "新经典文库：李娟作品"
 },{
   "_id": {
-    "$oid": "609a28e368cb1488fa604e79"
+    "$oid": "609a3da65c71c2fa96292d62"
   },
   "name": "边城",
   "author": [
@@ -1319,6 +1356,7 @@
   ],
   "url": "https://book.douban.com/subject/1057244/",
   "isbn": "9787537823425",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1595557.jpg",
   "press": "北岳文艺出版社",
   "producer": null,
@@ -1332,7 +1370,7 @@
   "series": "沈从文作品(插图本)"
 },{
   "_id": {
-    "$oid": "609a28e468cb1488fa604e7a"
+    "$oid": "609a3da85c71c2fa96292d63"
   },
   "name": "梦里花落知多少",
   "author": [
@@ -1340,6 +1378,7 @@
   ],
   "url": "https://book.douban.com/subject/2070844/",
   "isbn": "9787530208922",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s2393243.jpg",
   "press": "北京十月文艺出版社",
   "producer": "青马文化",
@@ -1353,7 +1392,7 @@
   "series": "三毛集"
 },{
   "_id": {
-    "$oid": "609a28e768cb1488fa604e7b"
+    "$oid": "609a3daa5c71c2fa96292d64"
   },
   "name": "看不见的城市",
   "author": [
@@ -1361,6 +1400,7 @@
   ],
   "url": "https://book.douban.com/subject/1863930/",
   "isbn": "9787544700603",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1804710.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -1376,7 +1416,7 @@
   "series": "卡尔维诺作品集"
 },{
   "_id": {
-    "$oid": "609a28e968cb1488fa604e7c"
+    "$oid": "609a3dac5c71c2fa96292d65"
   },
   "name": "人生的枷锁",
   "author": [
@@ -1384,6 +1424,7 @@
   ],
   "url": "https://book.douban.com/subject/2035171/",
   "isbn": "9787532741731",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3983958.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -1401,7 +1442,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a28eb68cb1488fa604e7d"
+    "$oid": "609a3daf5c71c2fa96292d66"
   },
   "name": "鹿鼎记（全五册）",
   "author": [
@@ -1409,6 +1450,7 @@
   ],
   "url": "https://book.douban.com/subject/1212893/",
   "isbn": "9787806553404",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s3134040.jpg",
   "press": "广州出版社 花城出版社",
   "producer": "朗声图书",
@@ -1422,7 +1464,7 @@
   "series": "金庸作品集（新修版·平装）"
 },{
   "_id": {
-    "$oid": "609a28ee68cb1488fa604e7e"
+    "$oid": "609a3db05c71c2fa96292d67"
   },
   "name": "斯通纳",
   "author": [
@@ -1430,6 +1472,7 @@
   ],
   "url": "https://book.douban.com/subject/26425831/",
   "isbn": "9787208130500",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s28332051.jpg",
   "press": "上海人民出版社",
   "producer": "世纪文景",
@@ -1445,7 +1488,7 @@
   "series": "约翰·威廉斯在文景"
 },{
   "_id": {
-    "$oid": "609a28f068cb1488fa604e7f"
+    "$oid": "609a3db35c71c2fa96292d68"
   },
   "name": "你当像鸟飞往你的山",
   "author": [
@@ -1453,6 +1496,7 @@
   ],
   "url": "https://book.douban.com/subject/33440205/",
   "isbn": "9787544276986",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s33492346.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -1468,7 +1512,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a28f268cb1488fa604e80"
+    "$oid": "609a3db65c71c2fa96292d69"
   },
   "name": "这些人，那些事",
   "author": [
@@ -1476,6 +1520,7 @@
   ],
   "url": "https://book.douban.com/subject/6388661/",
   "isbn": "9787544717731",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s6828981.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -1489,7 +1534,7 @@
   "series": "吴念真作品"
 },{
   "_id": {
-    "$oid": "609a28f568cb1488fa604e81"
+    "$oid": "609a3db95c71c2fa96292d6a"
   },
   "name": "海子的诗",
   "author": [
@@ -1497,6 +1542,7 @@
   ],
   "url": "https://book.douban.com/subject/1011754/",
   "isbn": "9787020026456",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1067491.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -1510,7 +1556,7 @@
   "series": "蓝星诗库"
 },{
   "_id": {
-    "$oid": "609a28f768cb1488fa604e82"
+    "$oid": "609a3dbb5c71c2fa96292d6b"
   },
   "name": "教父",
   "author": [
@@ -1518,6 +1564,7 @@
   ],
   "url": "https://book.douban.com/subject/1092335/",
   "isbn": "9787805674278",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2832939.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -1533,7 +1580,7 @@
   "series": "名著译林"
 },{
   "_id": {
-    "$oid": "609a28f968cb1488fa604e83"
+    "$oid": "609a3dbd5c71c2fa96292d6c"
   },
   "name": "飞鸟集",
   "author": [
@@ -1541,6 +1588,7 @@
   ],
   "url": "https://book.douban.com/subject/1058661/",
   "isbn": "9787806992197",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1044902.jpg",
   "press": "哈尔滨出版社",
   "producer": null,
@@ -1556,7 +1604,7 @@
   "series": "先知双语经典"
 },{
   "_id": {
-    "$oid": "609a28fd68cb1488fa604e84"
+    "$oid": "609a3dc05c71c2fa96292d6d"
   },
   "name": "呼兰河传",
   "author": [
@@ -1564,6 +1612,7 @@
   ],
   "url": "https://book.douban.com/subject/1060852/",
   "isbn": "9787530640470",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1167060.jpg",
   "press": "百花文艺出版社",
   "producer": null,
@@ -1577,7 +1626,7 @@
   "series": "现代文学名著原版珍藏"
 },{
   "_id": {
-    "$oid": "609a290068cb1488fa604e85"
+    "$oid": "609a3dc45c71c2fa96292d6e"
   },
   "name": "面纱",
   "author": [
@@ -1585,6 +1634,7 @@
   ],
   "url": "https://book.douban.com/subject/10560798/",
   "isbn": "9787229050238",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s9038826.jpg",
   "press": "重庆",
   "producer": "华章同人",
@@ -1600,7 +1650,7 @@
   "series": "重现经典（精装）"
 },{
   "_id": {
-    "$oid": "609a290368cb1488fa604e86"
+    "$oid": "609a3dc65c71c2fa96292d6f"
   },
   "name": "浮生六记",
   "author": [
@@ -1608,6 +1658,7 @@
   ],
   "url": "https://book.douban.com/subject/1088581/",
   "isbn": "9787020028313",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2280094.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -1621,7 +1672,7 @@
   "series": "中国小说史料丛书"
 },{
   "_id": {
-    "$oid": "609a290568cb1488fa604e87"
+    "$oid": "609a3dc95c71c2fa96292d70"
   },
   "name": "我也有一个梦想",
   "author": [
@@ -1629,6 +1680,7 @@
   ],
   "url": "https://book.douban.com/subject/1014825/",
   "isbn": "9787108012715",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2170315.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -1642,7 +1694,7 @@
   "series": "林达作品系列"
 },{
   "_id": {
-    "$oid": "609a290768cb1488fa604e88"
+    "$oid": "609a3dcb5c71c2fa96292d71"
   },
   "name": "海的女儿",
   "author": [
@@ -1650,6 +1702,7 @@
   ],
   "url": "https://book.douban.com/subject/1765512/",
   "isbn": "10188-29",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4133656.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -1665,7 +1718,7 @@
   "series": "安徒生童话全集"
 },{
   "_id": {
-    "$oid": "609a290a68cb1488fa604e89"
+    "$oid": "609a3dcd5c71c2fa96292d72"
   },
   "name": "受戒",
   "author": [
@@ -1673,6 +1726,7 @@
   ],
   "url": "https://book.douban.com/subject/1760432/",
   "isbn": "9787540701758",
+  "rating_value": "9.3",
   "image": "https://img2.doubanio.com/view/subject/l/public/s3628082.jpg",
   "press": "漓江出版社",
   "producer": null,
@@ -1686,28 +1740,7 @@
   "series": "作家自选集系列"
 },{
   "_id": {
-    "$oid": "609a290e68cb1488fa604e8a"
-  },
-  "name": "万水千山走遍",
-  "author": [
-    "三毛"
-  ],
-  "url": "https://book.douban.com/subject/1036490/",
-  "isbn": "9787806399057",
-  "image": "https://img2.doubanio.com/view/subject/l/public/s1099483.jpg",
-  "press": "哈尔滨出版社",
-  "producer": "华文天下",
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "2003-08",
-  "paginal_num": "215",
-  "price": "13.80",
-  "binding": "平装",
-  "series": "三毛全集（华文天下2003版）"
-},{
-  "_id": {
-    "$oid": "609a291168cb1488fa604e8b"
+    "$oid": "609a3dcf5c71c2fa96292d73"
   },
   "name": "不能承受的生命之轻",
   "author": [
@@ -1715,6 +1748,7 @@
   ],
   "url": "https://book.douban.com/subject/4920007/",
   "isbn": "9787532751655",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s4421443.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -1730,7 +1764,29 @@
   "series": "米兰·昆德拉作品系列（2010版）"
 },{
   "_id": {
-    "$oid": "609a291168cb1488fa604e8c"
+    "$oid": "609a3dd25c71c2fa96292d74"
+  },
+  "name": "万水千山走遍",
+  "author": [
+    "三毛"
+  ],
+  "url": "https://book.douban.com/subject/1036490/",
+  "isbn": "9787806399057",
+  "rating_value": "8.8",
+  "image": "https://img2.doubanio.com/view/subject/l/public/s1099483.jpg",
+  "press": "哈尔滨出版社",
+  "producer": "华文天下",
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "2003-08",
+  "paginal_num": "215",
+  "price": "13.80",
+  "binding": "平装",
+  "series": "三毛全集（华文天下2003版）"
+},{
+  "_id": {
+    "$oid": "609a3dd55c71c2fa96292d75"
   },
   "name": "经济学原理（上下）",
   "author": [
@@ -1738,6 +1794,7 @@
   ],
   "url": "https://book.douban.com/subject/1028842/",
   "isbn": "9787111126768",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1785715.jpg",
   "press": "机械工业出版社",
   "producer": null,
@@ -1753,7 +1810,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a291468cb1488fa604e8d"
+    "$oid": "609a3dd75c71c2fa96292d76"
   },
   "name": "國史大綱（上下）",
   "author": [
@@ -1761,6 +1818,7 @@
   ],
   "url": "https://book.douban.com/subject/1046492/",
   "isbn": "9787100017664",
+  "rating_value": "9.3",
   "image": "https://img9.doubanio.com/view/subject/l/public/s23922774.jpg",
   "press": "商務印書館",
   "producer": null,
@@ -1774,7 +1832,7 @@
   "series": "钱穆学术著作"
 },{
   "_id": {
-    "$oid": "609a291668cb1488fa604e8e"
+    "$oid": "609a3dda5c71c2fa96292d77"
   },
   "name": "昨日的世界",
   "author": [
@@ -1782,6 +1840,7 @@
   ],
   "url": "https://book.douban.com/subject/1062343/",
   "isbn": "9787563345809",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1121598.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -1800,7 +1859,7 @@
   "series": "影响过一代人的书"
 },{
   "_id": {
-    "$oid": "609a291968cb1488fa604e8f"
+    "$oid": "609a3ddc5c71c2fa96292d78"
   },
   "name": "小径分岔的花园",
   "author": [
@@ -1808,6 +1867,7 @@
   ],
   "url": "https://book.douban.com/subject/25796120/",
   "isbn": "9787532762897",
+  "rating_value": "8.9",
   "image": "https://img1.doubanio.com/view/subject/l/public/s29746559.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -1823,7 +1883,7 @@
   "series": "博尔赫斯全集"
 },{
   "_id": {
-    "$oid": "609a291b68cb1488fa604e90"
+    "$oid": "609a3ddf5c71c2fa96292d79"
   },
   "name": "爱的艺术",
   "author": [
@@ -1831,6 +1891,7 @@
   ],
   "url": "https://book.douban.com/subject/3026879/",
   "isbn": "9787532745159",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2990934.jpg",
   "press": "上海译文出版社",
   "producer": "99读书人",
@@ -1846,7 +1907,7 @@
   "series": "译文心理"
 },{
   "_id": {
-    "$oid": "609a291e68cb1488fa604e91"
+    "$oid": "609a3de15c71c2fa96292d7a"
   },
   "name": "孩子你慢慢来",
   "author": [
@@ -1854,6 +1915,7 @@
   ],
   "url": "https://book.douban.com/subject/4207781/",
   "isbn": "9787108033635",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4124434.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -1867,7 +1929,7 @@
   "series": "龙应台作品精选"
 },{
   "_id": {
-    "$oid": "609a292168cb1488fa604e92"
+    "$oid": "609a3de35c71c2fa96292d7b"
   },
   "name": "苏菲的世界",
   "author": [
@@ -1875,6 +1937,7 @@
   ],
   "url": "https://book.douban.com/subject/2284311/",
   "isbn": "9787506341271",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s3042670.jpg",
   "press": "作家出版社",
   "producer": null,
@@ -1890,12 +1953,13 @@
   "series": "贾德名作系列"
 },{
   "_id": {
-    "$oid": "609a292368cb1488fa604e93"
+    "$oid": "609a3de65c71c2fa96292d7c"
   },
   "name": "十万个为什么",
   "author": [],
   "url": "https://book.douban.com/subject/2160556/",
   "isbn": "13024-22",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2619779.jpg",
   "press": "少年儿童出版社",
   "producer": null,
@@ -1909,7 +1973,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a292668cb1488fa604e94"
+    "$oid": "609a3de85c71c2fa96292d7d"
   },
   "name": "四世同堂",
   "author": [
@@ -1917,6 +1981,7 @@
   ],
   "url": "https://book.douban.com/subject/3183775/",
   "isbn": "9787530209226",
+  "rating_value": "9.3",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3228699.jpg",
   "press": "北京十月文艺出版社",
   "producer": "新经典文化",
@@ -1930,7 +1995,7 @@
   "series": "老舍集"
 },{
   "_id": {
-    "$oid": "609a292b68cb1488fa604e95"
+    "$oid": "609a3ded5c71c2fa96292d7e"
   },
   "name": "罪与罚",
   "author": [
@@ -1938,6 +2003,7 @@
   ],
   "url": "https://book.douban.com/subject/1858568/",
   "isbn": "9787532740079",
+  "rating_value": "9.2",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1790246.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -1953,7 +2019,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a292c68cb1488fa604e96"
+    "$oid": "609a3def5c71c2fa96292d7f"
   },
   "name": "失明症漫记",
   "author": [
@@ -1961,6 +2027,7 @@
   ],
   "url": "https://book.douban.com/subject/20428302/",
   "isbn": "9787544264112",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s27217828.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -1976,7 +2043,7 @@
   "series": "新经典文库：若泽·萨拉马戈作品"
 },{
   "_id": {
-    "$oid": "609a292f68cb1488fa604e97"
+    "$oid": "609a3df15c71c2fa96292d80"
   },
   "name": "棋王",
   "author": [
@@ -1984,6 +2051,7 @@
   ],
   "url": "https://book.douban.com/subject/1020961/",
   "isbn": "9787506315975",
+  "rating_value": "8.8",
   "image": "https://img1.doubanio.com/view/subject/l/public/s26237958.jpg",
   "press": "作家出版社",
   "producer": null,
@@ -1997,28 +2065,7 @@
   "series": "阿城文集"
 },{
   "_id": {
-    "$oid": "609a293268cb1488fa604e98"
-  },
-  "name": "半生缘",
-  "author": [
-    "张爱玲"
-  ],
-  "url": "https://book.douban.com/subject/1963684/",
-  "isbn": "9787530208694",
-  "image": "https://img1.doubanio.com/view/subject/l/public/s2838737.jpg",
-  "press": "北京十月文艺出版社",
-  "producer": "青马文化",
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "2006-12",
-  "paginal_num": "372",
-  "price": "28.00元",
-  "binding": "精装",
-  "series": "张爱玲集"
-},{
-  "_id": {
-    "$oid": "609a293468cb1488fa604e99"
+    "$oid": "609a3df65c71c2fa96292d81"
   },
   "name": "麦琪的礼物",
   "author": [
@@ -2026,6 +2073,7 @@
   ],
   "url": "https://book.douban.com/subject/1051193/",
   "isbn": "9787806812297",
+  "rating_value": "8.6",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1137441.jpg",
   "press": "上海社会科学院出版社",
   "producer": "99读书人",
@@ -2041,7 +2089,29 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a293568cb1488fa604e9a"
+    "$oid": "609a3df75c71c2fa96292d82"
+  },
+  "name": "半生缘",
+  "author": [
+    "张爱玲"
+  ],
+  "url": "https://book.douban.com/subject/1963684/",
+  "isbn": "9787530208694",
+  "rating_value": "8.6",
+  "image": "https://img1.doubanio.com/view/subject/l/public/s2838737.jpg",
+  "press": "北京十月文艺出版社",
+  "producer": "青马文化",
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "2006-12",
+  "paginal_num": "372",
+  "price": "28.00元",
+  "binding": "精装",
+  "series": "张爱玲集"
+},{
+  "_id": {
+    "$oid": "609a3df95c71c2fa96292d83"
   },
   "name": "枪炮、病菌与钢铁",
   "author": [
@@ -2049,6 +2119,7 @@
   ],
   "url": "https://book.douban.com/subject/1813841/",
   "isbn": "9787532739233",
+  "rating_value": "8.7",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1738643.jpg",
   "press": "上海世纪出版集团",
   "producer": null,
@@ -2064,7 +2135,7 @@
   "series": "世纪人文系列丛书·开放人文"
 },{
   "_id": {
-    "$oid": "609a293868cb1488fa604e9b"
+    "$oid": "609a3dfb5c71c2fa96292d84"
   },
   "name": "银河系漫游指南",
   "author": [
@@ -2072,6 +2143,7 @@
   ],
   "url": "https://book.douban.com/subject/1394364/",
   "isbn": "9787536457577",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s3696740.jpg",
   "press": "四川科学技术出版社",
   "producer": "科幻世界",
@@ -2087,7 +2159,7 @@
   "series": "世界科幻大师丛书"
 },{
   "_id": {
-    "$oid": "609a293a68cb1488fa604e9c"
+    "$oid": "609a3dfd5c71c2fa96292d85"
   },
   "name": "社会心理学",
   "author": [
@@ -2095,6 +2167,7 @@
   ],
   "url": "https://book.douban.com/subject/1476651/",
   "isbn": "9787115138804",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1670932.jpg",
   "press": "人民邮电出版社",
   "producer": null,
@@ -2112,7 +2185,7 @@
   "series": "新曲线·心理学丛书"
 },{
   "_id": {
-    "$oid": "609a293c68cb1488fa604e9d"
+    "$oid": "609a3e005c71c2fa96292d86"
   },
   "name": "霸王别姬",
   "author": [
@@ -2120,6 +2193,7 @@
   ],
   "url": "https://book.douban.com/subject/1088711/",
   "isbn": "9787020028504",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s24964086.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -2133,7 +2207,7 @@
   "series": "李碧华文集人民文学版"
 },{
   "_id": {
-    "$oid": "609a293f68cb1488fa604e9e"
+    "$oid": "609a3e035c71c2fa96292d87"
   },
   "name": "亲爱的安德烈",
   "author": [
@@ -2142,6 +2216,7 @@
   ],
   "url": "https://book.douban.com/subject/3369793/",
   "isbn": "9787020068616",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3993878.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -2155,7 +2230,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a294168cb1488fa604e9f"
+    "$oid": "609a3e045c71c2fa96292d88"
   },
   "name": "阿勒泰的角落",
   "author": [
@@ -2163,6 +2238,7 @@
   ],
   "url": "https://book.douban.com/subject/4881850/",
   "isbn": "9787547010105",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s6185540.jpg",
   "press": "万卷出版公司",
   "producer": "万榕书业",
@@ -2176,7 +2252,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a294368cb1488fa604ea0"
+    "$oid": "609a3e075c71c2fa96292d89"
   },
   "name": "解忧杂货店",
   "author": [
@@ -2184,6 +2260,7 @@
   ],
   "url": "https://book.douban.com/subject/25862578/",
   "isbn": "9787544270878",
+  "rating_value": "8.5",
   "image": "https://img3.doubanio.com/view/subject/l/public/s27264181.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -2199,7 +2276,7 @@
   "series": "新经典文库·东野圭吾作品"
 },{
   "_id": {
-    "$oid": "609a294568cb1488fa604ea1"
+    "$oid": "609a3e0a5c71c2fa96292d8a"
   },
   "name": "温柔的夜",
   "author": [
@@ -2207,6 +2284,7 @@
   ],
   "url": "https://book.douban.com/subject/2068249/",
   "isbn": "9787530208915",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2391798.jpg",
   "press": "北京十月文艺出版社",
   "producer": "青马文化",
@@ -2220,7 +2298,7 @@
   "series": "三毛集"
 },{
   "_id": {
-    "$oid": "609a294968cb1488fa604ea2"
+    "$oid": "609a3e0d5c71c2fa96292d8b"
   },
   "name": "野火集",
   "author": [
@@ -2228,6 +2306,7 @@
   ],
   "url": "https://book.douban.com/subject/1426971/",
   "isbn": "9787806767245",
+  "rating_value": "8.8",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1469589.jpg",
   "press": "文汇出版社",
   "producer": null,
@@ -2241,7 +2320,7 @@
   "series": "龙应台作品系列"
 },{
   "_id": {
-    "$oid": "609a294d68cb1488fa604ea3"
+    "$oid": "609a3e125c71c2fa96292d8c"
   },
   "name": "德米安",
   "author": [
@@ -2249,6 +2328,7 @@
   ],
   "url": "https://book.douban.com/subject/3578470/",
   "isbn": "9787208081550",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s3979854.jpg",
   "press": "上海人民出版社",
   "producer": null,
@@ -2265,7 +2345,7 @@
   "series": "赫尔曼·黑塞作品系列"
 },{
   "_id": {
-    "$oid": "609a294d68cb1488fa604ea4"
+    "$oid": "609a3e175c71c2fa96292d8d"
   },
   "name": "目送",
   "author": [
@@ -2273,6 +2353,7 @@
   ],
   "url": "https://book.douban.com/subject/3995526/",
   "isbn": "9787108032911",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3984108.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -2286,7 +2367,7 @@
   "series": "龙应台作品精选"
 },{
   "_id": {
-    "$oid": "609a295268cb1488fa604ea5"
+    "$oid": "609a3e185c71c2fa96292d8e"
   },
   "name": "水浒传（全二册）",
   "author": [
@@ -2295,6 +2376,7 @@
   ],
   "url": "https://book.douban.com/subject/1008357/",
   "isbn": "9787020008742",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1436519.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -2308,7 +2390,7 @@
   "series": "中国古典文学读本丛书"
 },{
   "_id": {
-    "$oid": "609a295468cb1488fa604ea6"
+    "$oid": "609a3e195c71c2fa96292d8f"
   },
   "name": "全球通史",
   "author": [
@@ -2316,6 +2398,7 @@
   ],
   "url": "https://book.douban.com/subject/10583099/",
   "isbn": "9787301204689",
+  "rating_value": "9.1",
   "image": "https://img2.doubanio.com/view/subject/l/public/s29796663.jpg",
   "press": "北京大学出版社",
   "producer": null,
@@ -2334,7 +2417,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a295568cb1488fa604ea7"
+    "$oid": "609a3e1c5c71c2fa96292d90"
   },
   "name": "荆棘鸟",
   "author": [
@@ -2342,6 +2425,7 @@
   ],
   "url": "https://book.douban.com/subject/1086249/",
   "isbn": "9787805678313",
+  "rating_value": "8.6",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1073574.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -2357,7 +2441,7 @@
   "series": "名著译林"
 },{
   "_id": {
-    "$oid": "609a295868cb1488fa604ea8"
+    "$oid": "609a3e1e5c71c2fa96292d91"
   },
   "name": "认识电影",
   "author": [
@@ -2366,6 +2450,7 @@
   ],
   "url": "https://book.douban.com/subject/2326403/",
   "isbn": "9787506287081",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s28274132.jpg",
   "press": "世界图书出版公司",
   "producer": "后浪",
@@ -2381,7 +2466,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a295b68cb1488fa604ea9"
+    "$oid": "609a3e215c71c2fa96292d92"
   },
   "name": "民主的细节",
   "author": [
@@ -2389,6 +2474,7 @@
   ],
   "url": "https://book.douban.com/subject/3813669/",
   "isbn": "9787542629586",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s4146437.jpg",
   "press": "上海三联书店",
   "producer": null,
@@ -2402,12 +2488,13 @@
   "series": "刘瑜作品系列"
 },{
   "_id": {
-    "$oid": "609a295d68cb1488fa604eaa"
+    "$oid": "609a3e245c71c2fa96292d93"
   },
   "name": "一千零一夜",
   "author": [],
   "url": "https://book.douban.com/subject/1035848/",
   "isbn": "9787020040346",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1070937.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -2423,7 +2510,7 @@
   "series": "名著名译插图本"
 },{
   "_id": {
-    "$oid": "609a296068cb1488fa604eab"
+    "$oid": "609a3e275c71c2fa96292d94"
   },
   "name": "雨季不再来",
   "author": [
@@ -2431,6 +2518,7 @@
   ],
   "url": "https://book.douban.com/subject/2136140/",
   "isbn": "9787530208960",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2563279.jpg",
   "press": "北京十月文艺出版社",
   "producer": "青马文化",
@@ -2444,7 +2532,7 @@
   "series": "三毛集"
 },{
   "_id": {
-    "$oid": "609a296268cb1488fa604eac"
+    "$oid": "609a3e295c71c2fa96292d95"
   },
   "name": "草房子",
   "author": [
@@ -2452,6 +2540,7 @@
   ],
   "url": "https://book.douban.com/subject/1052990/",
   "isbn": "9787534618727",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s2652540.jpg",
   "press": "江苏少年儿童出版社",
   "producer": null,
@@ -2465,7 +2554,7 @@
   "series": "曹文轩纯美小说系列"
 },{
   "_id": {
-    "$oid": "609a296368cb1488fa604ead"
+    "$oid": "609a3e2c5c71c2fa96292d96"
   },
   "name": "顾城的诗",
   "author": [
@@ -2473,6 +2562,7 @@
   ],
   "url": "https://book.douban.com/subject/1033825/",
   "isbn": "9787020025862",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1024472.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -2486,7 +2576,7 @@
   "series": "蓝星诗库"
 },{
   "_id": {
-    "$oid": "609a296668cb1488fa604eae"
+    "$oid": "609a3e2f5c71c2fa96292d97"
   },
   "name": "总统是靠不住的",
   "author": [
@@ -2494,6 +2584,7 @@
   ],
   "url": "https://book.douban.com/subject/1056315/",
   "isbn": "9787108011367",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2170316.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -2507,7 +2598,7 @@
   "series": "林达作品系列"
 },{
   "_id": {
-    "$oid": "609a296968cb1488fa604eaf"
+    "$oid": "609a3e315c71c2fa96292d98"
   },
   "name": "倚天屠龙记(共四册)",
   "author": [
@@ -2515,6 +2606,7 @@
   ],
   "url": "https://book.douban.com/subject/1070851/",
   "isbn": "9787108012692",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1829709.jpg",
   "press": "三联书店",
   "producer": null,
@@ -2528,7 +2620,7 @@
   "series": "金庸作品集（三联口袋本）"
 },{
   "_id": {
-    "$oid": "609a296b68cb1488fa604eb0"
+    "$oid": "609a3e335c71c2fa96292d99"
   },
   "name": "美丽新世界",
   "author": [
@@ -2536,6 +2628,7 @@
   ],
   "url": "https://book.douban.com/subject/27002046/",
   "isbn": "9787532774685",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s29477615.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -2551,7 +2644,7 @@
   "series": "译文经典（精装本）"
 },{
   "_id": {
-    "$oid": "609a296e68cb1488fa604eb1"
+    "$oid": "609a3e365c71c2fa96292d9a"
   },
   "name": "最好的我们",
   "author": [
@@ -2559,6 +2652,7 @@
   ],
   "url": "https://book.douban.com/subject/24754316/",
   "isbn": "9787540462642",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s26720726.jpg",
   "press": "湖南文艺出版社",
   "producer": "博集天卷",
@@ -2572,7 +2666,7 @@
   "series": "“振华”系列"
 },{
   "_id": {
-    "$oid": "609a297068cb1488fa604eb2"
+    "$oid": "609a3e385c71c2fa96292d9b"
   },
   "name": "罗生门",
   "author": [
@@ -2580,6 +2674,7 @@
   ],
   "url": "https://book.douban.com/subject/3136271/",
   "isbn": "9787532744756",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3435158.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -2595,7 +2690,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a297468cb1488fa604eb3"
+    "$oid": "609a3e3a5c71c2fa96292d9c"
   },
   "name": "人间草木",
   "author": [
@@ -2603,6 +2698,7 @@
   ],
   "url": "https://book.douban.com/subject/1253310/",
   "isbn": "9787539921969",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1201610.jpg",
   "press": "江苏文艺出版社",
   "producer": null,
@@ -2616,28 +2712,7 @@
   "series": "大家散文文存"
 },{
   "_id": {
-    "$oid": "609a297668cb1488fa604eb4"
-  },
-  "name": "一句顶一万句",
-  "author": [
-    "刘震云"
-  ],
-  "url": "https://book.douban.com/subject/3633461/",
-  "isbn": "9787535439765",
-  "image": "https://img1.doubanio.com/view/subject/l/public/s6916838.jpg",
-  "press": "长江文艺出版社",
-  "producer": "长江新世纪",
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "2009-3",
-  "paginal_num": "362",
-  "price": "29.80",
-  "binding": "精装",
-  "series": "刘震云作品"
-},{
-  "_id": {
-    "$oid": "609a297a68cb1488fa604eb5"
+    "$oid": "609a3e3e5c71c2fa96292d9d"
   },
   "name": "张爱玲文集",
   "author": [
@@ -2645,6 +2720,7 @@
   ],
   "url": "https://book.douban.com/subject/1004992/",
   "isbn": "9787539605951",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1662165.jpg",
   "press": "安徽文艺出版社",
   "producer": null,
@@ -2658,7 +2734,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a297e68cb1488fa604eb6"
+    "$oid": "609a3e415c71c2fa96292d9e"
   },
   "name": "庄子",
   "author": [
@@ -2667,6 +2743,7 @@
   ],
   "url": "https://book.douban.com/subject/2046236/",
   "isbn": "9787101055207",
+  "rating_value": "9.4",
   "image": "https://img9.doubanio.com/view/subject/l/public/s5765615.jpg",
   "press": "中华书局",
   "producer": null,
@@ -2682,7 +2759,7 @@
   "series": "中华经典藏书"
 },{
   "_id": {
-    "$oid": "609a298168cb1488fa604eb7"
+    "$oid": "609a3e445c71c2fa96292d9f"
   },
   "name": "简爱（英文全本）",
   "author": [
@@ -2690,6 +2767,7 @@
   ],
   "url": "https://book.douban.com/subject/1141406/",
   "isbn": "9787506261579",
+  "rating_value": "8.5",
   "image": "https://img9.doubanio.com/view/subject/l/public/s5924326.jpg",
   "press": "世界图书出版公司",
   "producer": null,
@@ -2703,7 +2781,7 @@
   "series": "名著典藏"
 },{
   "_id": {
-    "$oid": "609a298368cb1488fa604eb8"
+    "$oid": "609a3e465c71c2fa96292da0"
   },
   "name": "你一生的故事",
   "author": [
@@ -2711,6 +2789,7 @@
   ],
   "url": "https://book.douban.com/subject/26295448/",
   "isbn": "9787544752473",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28033064.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -2728,7 +2807,7 @@
   "series": "特德·姜科幻作品"
 },{
   "_id": {
-    "$oid": "609a298568cb1488fa604eb9"
+    "$oid": "609a3e475c71c2fa96292da1"
   },
   "name": "金锁记",
   "author": [
@@ -2736,6 +2815,7 @@
   ],
   "url": "https://book.douban.com/subject/3017857/",
   "isbn": "9788781074519",
+  "rating_value": "8.6",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2976745.jpg",
   "press": "哈尔滨出版社",
   "producer": null,
@@ -2749,7 +2829,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a298868cb1488fa604eba"
+    "$oid": "609a3e4b5c71c2fa96292da2"
   },
   "name": "如彗星划过夜空",
   "author": [
@@ -2757,6 +2837,7 @@
   ],
   "url": "https://book.douban.com/subject/1762869/",
   "isbn": "9787108023803",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1670411.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -2770,7 +2851,49 @@
   "series": "林达作品系列"
 },{
   "_id": {
-    "$oid": "609a298b68cb1488fa604ebb"
+    "$oid": "609a3e4e5c71c2fa96292da3"
+  },
+  "name": "繁花",
+  "author": [
+    "金宇澄"
+  ],
+  "url": "https://book.douban.com/subject/22714154/",
+  "isbn": "9787532148004",
+  "rating_value": "8.7",
+  "image": "https://img1.doubanio.com/view/subject/l/public/s26037307.jpg",
+  "press": "上海文艺出版社",
+  "producer": null,
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "2013-3",
+  "paginal_num": "444",
+  "price": "48.00元",
+  "binding": "平装",
+  "series": null
+},{
+  "_id": {
+    "$oid": "609a3e515c71c2fa96292da4"
+  },
+  "name": "论语",
+  "author": [],
+  "url": "https://book.douban.com/subject/1964774/",
+  "isbn": "9787101054187",
+  "rating_value": "9.1",
+  "image": "https://img9.doubanio.com/view/subject/l/public/s5804746.jpg",
+  "press": "中华书局",
+  "producer": null,
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "2006-12",
+  "paginal_num": "191",
+  "price": "9.80元",
+  "binding": "平装",
+  "series": "传世经典 文白对照"
+},{
+  "_id": {
+    "$oid": "609a3e515c71c2fa96292da5"
   },
   "name": "黑客与画家",
   "author": [
@@ -2778,6 +2901,7 @@
   ],
   "url": "https://book.douban.com/subject/6021440/",
   "isbn": "9787115249494",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4669554.jpg",
   "press": "人民邮电出版社",
   "producer": "图灵教育",
@@ -2793,52 +2917,13 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a298d68cb1488fa604ebc"
-  },
-  "name": "繁花",
-  "author": [
-    "金宇澄"
-  ],
-  "url": "https://book.douban.com/subject/22714154/",
-  "isbn": "9787532148004",
-  "image": "https://img1.doubanio.com/view/subject/l/public/s26037307.jpg",
-  "press": "上海文艺出版社",
-  "producer": null,
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "2013-3",
-  "paginal_num": "444",
-  "price": "48.00元",
-  "binding": "平装",
-  "series": null
-},{
-  "_id": {
-    "$oid": "609a298f68cb1488fa604ebd"
-  },
-  "name": "论语",
-  "author": [],
-  "url": "https://book.douban.com/subject/1964774/",
-  "isbn": "9787101054187",
-  "image": "https://img9.doubanio.com/view/subject/l/public/s5804746.jpg",
-  "press": "中华书局",
-  "producer": null,
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "2006-12",
-  "paginal_num": "191",
-  "price": "9.80元",
-  "binding": "平装",
-  "series": "传世经典 文白对照"
-},{
-  "_id": {
-    "$oid": "609a299268cb1488fa604ebe"
+    "$oid": "609a3e525c71c2fa96292da6"
   },
   "name": "圣经",
   "author": [],
   "url": "https://book.douban.com/subject/1803022/",
   "isbn": "15235-886",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1677577.jpg",
   "press": "中国基督教协会",
   "producer": null,
@@ -2854,7 +2939,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a299568cb1488fa604ebf"
+    "$oid": "609a3e555c71c2fa96292da7"
   },
   "name": "恶意",
   "author": [
@@ -2862,6 +2947,7 @@
   ],
   "url": "https://book.douban.com/subject/26877752/",
   "isbn": "9787544285148",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s29069735.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -2877,7 +2963,7 @@
   "series": "新经典文库·东野圭吾作品"
 },{
   "_id": {
-    "$oid": "609a299768cb1488fa604ec0"
+    "$oid": "609a3e575c71c2fa96292da8"
   },
   "name": "额尔古纳河右岸",
   "author": [
@@ -2885,6 +2971,7 @@
   ],
   "url": "https://book.douban.com/subject/3311253/",
   "isbn": "9787530209936",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s3380714.jpg",
   "press": "北京十月文艺出版社",
   "producer": null,
@@ -2898,7 +2985,31 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a299c68cb1488fa604ec1"
+    "$oid": "609a3e595c71c2fa96292da9"
+  },
+  "name": "牧羊少年奇幻之旅",
+  "author": [
+    "[巴西] 保罗·柯艾略"
+  ],
+  "url": "https://book.douban.com/subject/3608208/",
+  "isbn": "9787544244190",
+  "rating_value": "8.5",
+  "image": "https://img1.doubanio.com/view/subject/l/public/s3668327.jpg",
+  "press": "南海出版公司",
+  "producer": "新经典文化",
+  "subtitle": null,
+  "original_title": "O Alquimista",
+  "translator": [
+    "丁文林"
+  ],
+  "pub_date": "2009-3-1",
+  "paginal_num": "217",
+  "price": "25.00元",
+  "binding": "精装",
+  "series": "新经典文库·保罗·柯艾略作品"
+},{
+  "_id": {
+    "$oid": "609a3e5b5c71c2fa96292daa"
   },
   "name": "从一到无穷大",
   "author": [
@@ -2906,6 +3017,7 @@
   ],
   "url": "https://book.douban.com/subject/1102715/",
   "isbn": "9787030107596",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s2516920.jpg",
   "press": "科学出版社",
   "producer": null,
@@ -2922,30 +3034,7 @@
   "series": "20世纪科普经典特藏（中译本）"
 },{
   "_id": {
-    "$oid": "609a299c68cb1488fa604ec2"
-  },
-  "name": "牧羊少年奇幻之旅",
-  "author": [
-    "[巴西] 保罗·柯艾略"
-  ],
-  "url": "https://book.douban.com/subject/3608208/",
-  "isbn": "9787544244190",
-  "image": "https://img1.doubanio.com/view/subject/l/public/s3668327.jpg",
-  "press": "南海出版公司",
-  "producer": "新经典文化",
-  "subtitle": null,
-  "original_title": "O Alquimista",
-  "translator": [
-    "丁文林"
-  ],
-  "pub_date": "2009-3-1",
-  "paginal_num": "217",
-  "price": "25.00元",
-  "binding": "精装",
-  "series": "新经典文库·保罗·柯艾略作品"
-},{
-  "_id": {
-    "$oid": "609a299e68cb1488fa604ec3"
+    "$oid": "609a3e5e5c71c2fa96292dab"
   },
   "name": "强风吹拂",
   "author": [
@@ -2953,6 +3042,7 @@
   ],
   "url": "https://book.douban.com/subject/26210487/",
   "isbn": "9787549559671",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s27914268.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -2970,7 +3060,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29a168cb1488fa604ec4"
+    "$oid": "609a3e605c71c2fa96292dac"
   },
   "name": "青铜时代",
   "author": [
@@ -2978,6 +3068,7 @@
   ],
   "url": "https://book.douban.com/subject/1085883/",
   "isbn": "9787536025103",
+  "rating_value": "8.7",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1072541.jpg",
   "press": "花城出版社",
   "producer": null,
@@ -2991,7 +3082,7 @@
   "series": "王小波《时代三部曲》"
 },{
   "_id": {
-    "$oid": "609a29a668cb1488fa604ec5"
+    "$oid": "609a3e655c71c2fa96292dad"
   },
   "name": "哈姆莱特",
   "author": [
@@ -2999,6 +3090,7 @@
   ],
   "url": "https://book.douban.com/subject/1006197/",
   "isbn": "9787020035946",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s27009357.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -3014,7 +3106,7 @@
   "series": "大学生必读"
 },{
   "_id": {
-    "$oid": "609a29a968cb1488fa604ec6"
+    "$oid": "609a3e665c71c2fa96292dae"
   },
   "name": "金阁寺",
   "author": [
@@ -3022,6 +3114,7 @@
   ],
   "url": "https://book.douban.com/subject/3391248/",
   "isbn": "9787532744565",
+  "rating_value": "8.7",
   "image": "https://img3.doubanio.com/view/subject/l/public/s3511590.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3037,31 +3130,7 @@
   "series": "三岛由纪夫作品系列"
 },{
   "_id": {
-    "$oid": "609a29ae68cb1488fa604ec7"
-  },
-  "name": "被讨厌的勇气",
-  "author": [
-    "岸见一郎",
-    "古贺史健"
-  ],
-  "url": "https://book.douban.com/subject/26369699/",
-  "isbn": "9787111495482",
-  "image": "https://img2.doubanio.com/view/subject/l/public/s33323852.jpg",
-  "press": "机械工业出版社",
-  "producer": null,
-  "subtitle": "“自我启发之父”阿德勒的哲学课",
-  "original_title": "嫌われる勇気：自己啓発の源流「アドラー」の教え",
-  "translator": [
-    "渠海霞"
-  ],
-  "pub_date": "2015-3-1",
-  "paginal_num": "194",
-  "price": "39.8",
-  "binding": "平装",
-  "series": null
-},{
-  "_id": {
-    "$oid": "609a29b068cb1488fa604ec8"
+    "$oid": "609a3e695c71c2fa96292daf"
   },
   "name": "二手时间",
   "author": [
@@ -3069,6 +3138,7 @@
   ],
   "url": "https://book.douban.com/subject/26704403/",
   "isbn": "9787508658346",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28397415.jpg",
   "press": "中信出版集团",
   "producer": null,
@@ -3084,7 +3154,32 @@
   "series": "S. A. 阿列克谢耶维奇作品集"
 },{
   "_id": {
-    "$oid": "609a29b168cb1488fa604ec9"
+    "$oid": "609a3e6b5c71c2fa96292db0"
+  },
+  "name": "被讨厌的勇气",
+  "author": [
+    "岸见一郎",
+    "古贺史健"
+  ],
+  "url": "https://book.douban.com/subject/26369699/",
+  "isbn": "9787111495482",
+  "rating_value": "8.6",
+  "image": "https://img2.doubanio.com/view/subject/l/public/s33323852.jpg",
+  "press": "机械工业出版社",
+  "producer": null,
+  "subtitle": "“自我启发之父”阿德勒的哲学课",
+  "original_title": "嫌われる勇気：自己啓発の源流「アドラー」の教え",
+  "translator": [
+    "渠海霞"
+  ],
+  "pub_date": "2015-3-1",
+  "paginal_num": "194",
+  "price": "39.8",
+  "binding": "平装",
+  "series": null
+},{
+  "_id": {
+    "$oid": "609a3e6e5c71c2fa96292db1"
   },
   "name": "挪威的森林",
   "author": [
@@ -3092,6 +3187,7 @@
   ],
   "url": "https://book.douban.com/subject/2159042/",
   "isbn": "9787532742929",
+  "rating_value": "8.5",
   "image": "https://img1.doubanio.com/view/subject/l/public/s27312538.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3107,7 +3203,7 @@
   "series": "村上春树文集"
 },{
   "_id": {
-    "$oid": "609a29b468cb1488fa604eca"
+    "$oid": "609a3e705c71c2fa96292db2"
   },
   "name": "世界尽头与冷酷仙境",
   "author": [
@@ -3115,6 +3211,7 @@
   ],
   "url": "https://book.douban.com/subject/1291809/",
   "isbn": "9787532730001",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1801057.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3130,7 +3227,7 @@
   "series": "村上春树文集（2001版）"
 },{
   "_id": {
-    "$oid": "609a29b668cb1488fa604ecb"
+    "$oid": "609a3e735c71c2fa96292db3"
   },
   "name": "厌女",
   "author": [
@@ -3138,6 +3235,7 @@
   ],
   "url": "https://book.douban.com/subject/25836270/",
   "isbn": "9787542645715",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s27838442.jpg",
   "press": "上海三联书店",
   "producer": null,
@@ -3153,7 +3251,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29b868cb1488fa604ecc"
+    "$oid": "609a3e755c71c2fa96292db4"
   },
   "name": "步履不停",
   "author": [
@@ -3161,6 +3259,7 @@
   ],
   "url": "https://book.douban.com/subject/26963321/",
   "isbn": "9787550297685",
+  "rating_value": "8.7",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29425921.jpg",
   "press": "北京联合出版公司",
   "producer": null,
@@ -3176,7 +3275,7 @@
   "series": "是枝裕和人间三部曲"
 },{
   "_id": {
-    "$oid": "609a29bb68cb1488fa604ecd"
+    "$oid": "609a3e775c71c2fa96292db5"
   },
   "name": "少年凯歌",
   "author": [
@@ -3184,6 +3283,7 @@
   ],
   "url": "https://book.douban.com/subject/1091203/",
   "isbn": "9787020034109",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s24399718.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -3197,7 +3297,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29be68cb1488fa604ece"
+    "$oid": "609a3e7a5c71c2fa96292db6"
   },
   "name": "稻草人手记",
   "author": [
@@ -3205,6 +3305,7 @@
   ],
   "url": "https://book.douban.com/subject/3607117/",
   "isbn": "9787530209691",
+  "rating_value": "8.9",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3667048.jpg",
   "press": "北京十月文艺出版社",
   "producer": "青马文化",
@@ -3218,7 +3319,7 @@
   "series": "三毛全集（2009版）"
 },{
   "_id": {
-    "$oid": "609a29c168cb1488fa604ecf"
+    "$oid": "609a3e7c5c71c2fa96292db7"
   },
   "name": "香水",
   "author": [
@@ -3226,6 +3327,7 @@
   ],
   "url": "https://book.douban.com/subject/3815125/",
   "isbn": "9787532745449",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s3867373.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3241,7 +3343,7 @@
   "series": "译文经典（精装本）"
 },{
   "_id": {
-    "$oid": "609a29c468cb1488fa604ed0"
+    "$oid": "609a3e7f5c71c2fa96292db8"
   },
   "name": "佐贺的超级阿嬷",
   "author": [
@@ -3249,6 +3351,7 @@
   ],
   "url": "https://book.douban.com/subject/2008284/",
   "isbn": "9787544234726",
+  "rating_value": "8.7",
   "image": "https://img2.doubanio.com/view/subject/l/public/s3922462.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -3264,7 +3367,7 @@
   "series": "新经典文库·巴学园"
 },{
   "_id": {
-    "$oid": "609a29c568cb1488fa604ed1"
+    "$oid": "609a3e805c71c2fa96292db9"
   },
   "name": "长日将尽",
   "author": [
@@ -3272,6 +3375,7 @@
   ],
   "url": "https://book.douban.com/subject/30142261/",
   "isbn": "9787532777532",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29738720.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3287,7 +3391,7 @@
   "series": "石黑一雄作品"
 },{
   "_id": {
-    "$oid": "609a29c768cb1488fa604ed2"
+    "$oid": "609a3e835c71c2fa96292dba"
   },
   "name": "毛姆短篇小说精选集",
   "author": [
@@ -3295,6 +3399,7 @@
   ],
   "url": "https://book.douban.com/subject/10774752/",
   "isbn": "9787544728669",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s24174596.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -3312,7 +3417,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29ca68cb1488fa604ed3"
+    "$oid": "609a3e865c71c2fa96292dbb"
   },
   "name": "当呼吸化为空气",
   "author": [
@@ -3320,6 +3425,7 @@
   ],
   "url": "https://book.douban.com/subject/26896859/",
   "isbn": "9787533946562",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s29423902.jpg",
   "press": "猫头鹰文化·浙江文艺出版社",
   "producer": "猫头鹰文化",
@@ -3335,7 +3441,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29cd68cb1488fa604ed4"
+    "$oid": "609a3e885c71c2fa96292dbc"
   },
   "name": "人类的群星闪耀时",
   "author": [
@@ -3343,6 +3449,7 @@
   ],
   "url": "https://book.douban.com/subject/1083762/",
   "isbn": "9787563349128",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1134166.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -3358,7 +3465,7 @@
   "series": "影响过一代人的书"
 },{
   "_id": {
-    "$oid": "609a29cf68cb1488fa604ed5"
+    "$oid": "609a3e8b5c71c2fa96292dbd"
   },
   "name": "西方哲学史（上卷）",
   "author": [
@@ -3366,6 +3473,7 @@
   ],
   "url": "https://book.douban.com/subject/1008189/",
   "isbn": "9787100004824",
+  "rating_value": "8.9",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1562997.jpg",
   "press": "商务印书馆",
   "producer": null,
@@ -3382,7 +3490,7 @@
   "series": "汉译世界学术名著丛书·哲学"
 },{
   "_id": {
-    "$oid": "609a29d268cb1488fa604ed6"
+    "$oid": "609a3e8d5c71c2fa96292dbe"
   },
   "name": "通往奴役之路",
   "author": [
@@ -3390,6 +3498,7 @@
   ],
   "url": "https://book.douban.com/subject/1077528/",
   "isbn": "9787500421368",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s8879166.jpg",
   "press": "中国社会科学出版社",
   "producer": null,
@@ -3406,7 +3515,7 @@
   "series": "西方现代思想丛书"
 },{
   "_id": {
-    "$oid": "609a29d468cb1488fa604ed7"
+    "$oid": "609a3e8f5c71c2fa96292dbf"
   },
   "name": "如父如子",
   "author": [
@@ -3415,6 +3524,7 @@
   ],
   "url": "https://book.douban.com/subject/27611824/",
   "isbn": "9787540484651",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29707420.jpg",
   "press": "湖南文艺出版社",
   "producer": "博集天卷",
@@ -3430,7 +3540,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29d668cb1488fa604ed8"
+    "$oid": "609a3e915c71c2fa96292dc0"
   },
   "name": "分成两半的子爵",
   "author": [
@@ -3438,6 +3548,7 @@
   ],
   "url": "https://book.douban.com/subject/10555486/",
   "isbn": "9787544722346",
+  "rating_value": "8.7",
   "image": "https://img2.doubanio.com/view/subject/l/public/s8972073.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -3453,7 +3564,7 @@
   "series": "卡尔维诺经典"
 },{
   "_id": {
-    "$oid": "609a29da68cb1488fa604ed9"
+    "$oid": "609a3e945c71c2fa96292dc1"
   },
   "name": "遥远的向日葵地",
   "author": [
@@ -3461,6 +3572,7 @@
   ],
   "url": "https://book.douban.com/subject/27184303/",
   "isbn": "9787536084469",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29878650.jpg",
   "press": "花城出版社",
   "producer": null,
@@ -3474,7 +3586,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29db68cb1488fa604eda"
+    "$oid": "609a3e965c71c2fa96292dc2"
   },
   "name": "消失的13级台阶",
   "author": [
@@ -3482,6 +3594,7 @@
   ],
   "url": "https://book.douban.com/subject/34996429/",
   "isbn": "9787532175512",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s33623978.jpg",
   "press": "上海文艺出版社",
   "producer": "读客文化",
@@ -3497,7 +3610,7 @@
   "series": "读客外国小说文库：高野和明作品"
 },{
   "_id": {
-    "$oid": "609a29dd68cb1488fa604edb"
+    "$oid": "609a3e995c71c2fa96292dc3"
   },
   "name": "过于喧嚣的孤独",
   "author": [
@@ -3505,6 +3618,7 @@
   ],
   "url": "https://book.douban.com/subject/6781794/",
   "isbn": "9787530211571",
+  "rating_value": "8.8",
   "image": "https://img1.doubanio.com/view/subject/l/public/s24422879.jpg",
   "press": "北京十月文艺出版社",
   "producer": "新经典文化",
@@ -3520,7 +3634,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29df68cb1488fa604edc"
+    "$oid": "609a3e9b5c71c2fa96292dc4"
   },
   "name": "长袜子皮皮",
   "author": [
@@ -3528,6 +3642,7 @@
   ],
   "url": "https://book.douban.com/subject/1004088/",
   "isbn": "9787500742586",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1290828.jpg",
   "press": "中国少年儿童出版社",
   "producer": null,
@@ -3543,7 +3658,7 @@
   "series": "文学大师林格伦作品集"
 },{
   "_id": {
-    "$oid": "609a29e068cb1488fa604edd"
+    "$oid": "609a3e9e5c71c2fa96292dc5"
   },
   "name": "一个人的村庄",
   "author": [
@@ -3551,6 +3666,7 @@
   ],
   "url": "https://book.douban.com/subject/1692648/",
   "isbn": "9787531329329",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s9018034.jpg",
   "press": "春风文艺出版社",
   "producer": null,
@@ -3564,7 +3680,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29e368cb1488fa604ede"
+    "$oid": "609a3ea15c71c2fa96292dc6"
   },
   "name": "社会性动物",
   "author": [
@@ -3572,6 +3688,7 @@
   ],
   "url": "https://book.douban.com/subject/2328458/",
   "isbn": "9787561756638",
+  "rating_value": "9.1",
   "image": "https://img2.doubanio.com/view/subject/l/public/s2783843.jpg",
   "press": "华东师范大学出版社",
   "producer": null,
@@ -3587,7 +3704,7 @@
   "series": "当代心理科学名著译丛"
 },{
   "_id": {
-    "$oid": "609a29e568cb1488fa604edf"
+    "$oid": "609a3ea35c71c2fa96292dc7"
   },
   "name": "不存在的骑士",
   "author": [
@@ -3595,6 +3712,7 @@
   ],
   "url": "https://book.douban.com/subject/6789551/",
   "isbn": "9787544722797",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s8972061.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -3610,7 +3728,7 @@
   "series": "卡尔维诺经典"
 },{
   "_id": {
-    "$oid": "609a29e868cb1488fa604ee0"
+    "$oid": "609a3ea55c71c2fa96292dc8"
   },
   "name": "别闹了，费曼先生",
   "author": [
@@ -3618,6 +3736,7 @@
   ],
   "url": "https://book.douban.com/subject/1037602/",
   "isbn": "9787108011114",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1027286.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -3633,7 +3752,7 @@
   "series": "科学人文"
 },{
   "_id": {
-    "$oid": "609a29ea68cb1488fa604ee1"
+    "$oid": "609a3ea85c71c2fa96292dc9"
   },
   "name": "海底两万里",
   "author": [
@@ -3641,6 +3760,7 @@
   ],
   "url": "https://book.douban.com/subject/1085470/",
   "isbn": "9787806574317",
+  "rating_value": "8.5",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1817666.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -3658,7 +3778,7 @@
   "series": "译林少儿文库"
 },{
   "_id": {
-    "$oid": "609a29ed68cb1488fa604ee2"
+    "$oid": "609a3eaa5c71c2fa96292dca"
   },
   "name": "多情剑客无情剑(上、中、下)",
   "author": [
@@ -3666,6 +3786,7 @@
   ],
   "url": "https://book.douban.com/subject/1422833/",
   "isbn": "9787806152614",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1641357.jpg",
   "press": "海天出版社",
   "producer": null,
@@ -3679,7 +3800,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29f068cb1488fa604ee3"
+    "$oid": "609a3ead5c71c2fa96292dcb"
   },
   "name": "规训与惩罚",
   "author": [
@@ -3687,6 +3808,7 @@
   ],
   "url": "https://book.douban.com/subject/1012307/",
   "isbn": "9787108017949",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2522397.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -3703,7 +3825,7 @@
   "series": "学术前沿"
 },{
   "_id": {
-    "$oid": "609a29f268cb1488fa604ee4"
+    "$oid": "609a3eb05c71c2fa96292dcc"
   },
   "name": "了不起的盖茨比",
   "author": [
@@ -3711,6 +3833,7 @@
   ],
   "url": "https://book.douban.com/subject/10738023/",
   "isbn": "9787544258661",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s9110246.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -3726,7 +3849,7 @@
   "series": "新经典文库：桂冠文丛"
 },{
   "_id": {
-    "$oid": "609a29f568cb1488fa604ee5"
+    "$oid": "609a3eb15c71c2fa96292dcd"
   },
   "name": "老人与海",
   "author": [
@@ -3734,6 +3857,7 @@
   ],
   "url": "https://book.douban.com/subject/1064275/",
   "isbn": "9787532723447",
+  "rating_value": "8.4",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1050021.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3749,7 +3873,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a29f768cb1488fa604ee6"
+    "$oid": "609a3eb35c71c2fa96292dce"
   },
   "name": "世界的凛冬",
   "author": [
@@ -3757,6 +3881,7 @@
   ],
   "url": "https://book.douban.com/subject/26957760/",
   "isbn": "9787539999074",
+  "rating_value": "8.8",
   "image": "https://img1.doubanio.com/view/subject/l/public/s29331058.jpg",
   "press": "江苏凤凰文艺出版社",
   "producer": "读客文化",
@@ -3772,7 +3897,7 @@
   "series": "读客全球顶级畅销小说文库：肯·福莱特作品"
 },{
   "_id": {
-    "$oid": "609a29fa68cb1488fa604ee7"
+    "$oid": "609a3eb65c71c2fa96292dcf"
   },
   "name": "ZOO",
   "author": [
@@ -3780,6 +3905,7 @@
   ],
   "url": "https://book.douban.com/subject/2297697/",
   "isbn": "9787509002780",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2756239.jpg",
   "press": "当代世界出版社",
   "producer": null,
@@ -3795,7 +3921,7 @@
   "series": "乐读文库"
 },{
   "_id": {
-    "$oid": "609a29fd68cb1488fa604ee8"
+    "$oid": "609a3eb95c71c2fa96292dd0"
   },
   "name": "社会契约论",
   "author": [
@@ -3803,6 +3929,7 @@
   ],
   "url": "https://book.douban.com/subject/1277981/",
   "isbn": "9787100037259",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s3470220.jpg",
   "press": "商务印书馆",
   "producer": null,
@@ -3818,7 +3945,7 @@
   "series": "汉译世界学术名著丛书·政治法律社会"
 },{
   "_id": {
-    "$oid": "609a29ff68cb1488fa604ee9"
+    "$oid": "609a3ebc5c71c2fa96292dd1"
   },
   "name": "牡丹亭",
   "author": [
@@ -3826,6 +3953,7 @@
   ],
   "url": "https://book.douban.com/subject/1073708/",
   "isbn": "9787020015092",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1075414.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -3839,7 +3967,7 @@
   "series": "中国古典文学读本丛书"
 },{
   "_id": {
-    "$oid": "609a2a0168cb1488fa604eea"
+    "$oid": "609a3ebe5c71c2fa96292dd2"
   },
   "name": "狂热分子",
   "author": [
@@ -3847,6 +3975,7 @@
   ],
   "url": "https://book.douban.com/subject/3057556/",
   "isbn": "9787563374625",
+  "rating_value": "8.9",
   "image": "https://img1.doubanio.com/view/subject/l/public/s28036829.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -3862,7 +3991,7 @@
   "series": "理想国 人文精选"
 },{
   "_id": {
-    "$oid": "609a2a0468cb1488fa604eeb"
+    "$oid": "609a3ec15c71c2fa96292dd3"
   },
   "name": "骆驼祥子",
   "author": [
@@ -3870,6 +3999,7 @@
   ],
   "url": "https://book.douban.com/subject/1043815/",
   "isbn": "9787020028115",
+  "rating_value": "8.4",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1146040.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -3883,7 +4013,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a0768cb1488fa604eec"
+    "$oid": "609a3ec45c71c2fa96292dd4"
   },
   "name": "安娜·卡列尼娜",
   "author": [
@@ -3891,6 +4021,7 @@
   ],
   "url": "https://book.douban.com/subject/2253380/",
   "isbn": "9787532132256",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s5763939.jpg",
   "press": "上海文艺出版社",
   "producer": null,
@@ -3906,7 +4037,7 @@
   "series": "世界十大文学名著"
 },{
   "_id": {
-    "$oid": "609a2a0868cb1488fa604eed"
+    "$oid": "609a3ec55c71c2fa96292dd5"
   },
   "name": "影响力",
   "author": [
@@ -3914,6 +4045,7 @@
   ],
   "url": "https://book.douban.com/subject/1786387/",
   "isbn": "9787300072487",
+  "rating_value": "8.6",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1657785.jpg",
   "press": "中国人民大学出版社",
   "producer": "湛庐文化",
@@ -3929,7 +4061,7 @@
   "series": "湛庐文化· 商业智慧"
 },{
   "_id": {
-    "$oid": "609a2a0a68cb1488fa604eee"
+    "$oid": "609a3ec65c71c2fa96292dd6"
   },
   "name": "银河帝国：基地七部曲",
   "author": [
@@ -3937,6 +4069,7 @@
   ],
   "url": "https://book.douban.com/subject/26389895/",
   "isbn": "9787539983356",
+  "rating_value": "9.5",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28284246.jpg",
   "press": "江苏凤凰文艺出版社",
   "producer": "读客文化",
@@ -3952,7 +4085,7 @@
   "series": "读客外国小说文库：艾萨克·阿西莫夫作品"
 },{
   "_id": {
-    "$oid": "609a2a0c68cb1488fa604eef"
+    "$oid": "609a3ec95c71c2fa96292dd7"
   },
   "name": "荒原狼",
   "author": [
@@ -3960,6 +4093,7 @@
   ],
   "url": "https://book.douban.com/subject/3131626/",
   "isbn": "9787532744800",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3286369.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -3976,7 +4110,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a2a0e68cb1488fa604ef0"
+    "$oid": "609a3eca5c71c2fa96292dd8"
   },
   "name": "巨流河",
   "author": [
@@ -3984,6 +4118,7 @@
   ],
   "url": "https://book.douban.com/subject/4842446/",
   "isbn": "9787108034731",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s4494379.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -3997,7 +4132,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a1068cb1488fa604ef1"
+    "$oid": "609a3ecd5c71c2fa96292dd9"
   },
   "name": "象棋的故事",
   "author": [
@@ -4005,6 +4140,7 @@
   ],
   "url": "https://book.douban.com/subject/2158684/",
   "isbn": "9787532741601",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s2897060.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -4020,7 +4156,7 @@
   "series": "斯蒂芬·茨威格作品集"
 },{
   "_id": {
-    "$oid": "609a2a1268cb1488fa604ef2"
+    "$oid": "609a3ecf5c71c2fa96292dda"
   },
   "name": "设计中的设计",
   "author": [
@@ -4028,6 +4164,7 @@
   ],
   "url": "https://book.douban.com/subject/1941558/",
   "isbn": "9787209041065",
+  "rating_value": "8.6",
   "image": "https://img2.doubanio.com/view/subject/l/public/s2165932.jpg",
   "press": "山东人民出版社",
   "producer": null,
@@ -4043,7 +4180,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a1568cb1488fa604ef3"
+    "$oid": "609a3ed25c71c2fa96292ddb"
   },
   "name": "众病之王",
   "author": [
@@ -4051,6 +4188,7 @@
   ],
   "url": "https://book.douban.com/subject/20507206/",
   "isbn": "9787508638119",
+  "rating_value": "9.1",
   "image": "https://img1.doubanio.com/view/subject/l/public/s24598159.jpg",
   "press": "中信出版社",
   "producer": null,
@@ -4066,7 +4204,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a1868cb1488fa604ef4"
+    "$oid": "609a3ed55c71c2fa96292ddc"
   },
   "name": "火星救援",
   "author": [
@@ -4074,6 +4212,7 @@
   ],
   "url": "https://book.douban.com/subject/26586492/",
   "isbn": "9787544757225",
+  "rating_value": "8.9",
   "image": "https://img1.doubanio.com/view/subject/l/public/s28284337.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -4089,7 +4228,7 @@
   "series": "安迪·威尔作品"
 },{
   "_id": {
-    "$oid": "609a2a1a68cb1488fa604ef5"
+    "$oid": "609a3ed75c71c2fa96292ddd"
   },
   "name": "中国哲学简史",
   "author": [
@@ -4097,6 +4236,7 @@
   ],
   "url": "https://book.douban.com/subject/1021273/",
   "isbn": "9787801872166",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1069364.jpg",
   "press": "新世界出版社",
   "producer": null,
@@ -4112,7 +4252,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a1d68cb1488fa604ef6"
+    "$oid": "609a3eda5c71c2fa96292dde"
   },
   "name": "夏洛的网",
   "author": [
@@ -4120,6 +4260,7 @@
   ],
   "url": "https://book.douban.com/subject/1036274/",
   "isbn": "9787532733415",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1120437.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -4135,7 +4276,7 @@
   "series": "译文经典（平装本）"
 },{
   "_id": {
-    "$oid": "609a2a1e68cb1488fa604ef7"
+    "$oid": "609a3edc5c71c2fa96292ddf"
   },
   "name": "此生未完成",
   "author": [
@@ -4143,6 +4284,7 @@
   ],
   "url": "https://book.douban.com/subject/6397275/",
   "isbn": "9787535766779",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s6343233.jpg",
   "press": "湖南科技出版社",
   "producer": "博集天卷",
@@ -4156,7 +4298,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a2168cb1488fa604ef8"
+    "$oid": "609a3ede5c71c2fa96292de0"
   },
   "name": "上学记",
   "author": [
@@ -4165,6 +4307,7 @@
   ],
   "url": "https://book.douban.com/subject/1859140/",
   "isbn": "9787108025104",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1950424.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -4178,7 +4321,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a2368cb1488fa604ef9"
+    "$oid": "609a3ee15c71c2fa96292de1"
   },
   "name": "一桩事先张扬的凶杀案",
   "author": [
@@ -4186,6 +4329,7 @@
   ],
   "url": "https://book.douban.com/subject/24382569/",
   "isbn": "9787544266123",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s26546959.jpg",
   "press": "南海出版公司",
   "producer": "新经典文化",
@@ -4201,7 +4345,7 @@
   "series": "新经典文库：加西亚·马尔克斯作品"
 },{
   "_id": {
-    "$oid": "609a2a2468cb1488fa604efa"
+    "$oid": "609a3ee45c71c2fa96292de2"
   },
   "name": "海风中失落的血色馈赠",
   "author": [
@@ -4209,6 +4353,7 @@
   ],
   "url": "https://book.douban.com/subject/26357614/",
   "isbn": "9787532156825",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s28061231.jpg",
   "press": "上海文艺出版社",
   "producer": "99读书人",
@@ -4224,7 +4369,7 @@
   "series": "短经典"
 },{
   "_id": {
-    "$oid": "609a2a2768cb1488fa604efb"
+    "$oid": "609a3ee65c71c2fa96292de3"
   },
   "name": "雷雨",
   "author": [
@@ -4232,6 +4377,7 @@
   ],
   "url": "https://book.douban.com/subject/1013416/",
   "isbn": "9787020018567",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s23579217.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -4245,7 +4391,7 @@
   "series": "中国现代名剧丛书"
 },{
   "_id": {
-    "$oid": "609a2a2a68cb1488fa604efc"
+    "$oid": "609a3ee95c71c2fa96292de4"
   },
   "name": "九州·缥缈录",
   "author": [
@@ -4253,6 +4399,7 @@
   ],
   "url": "https://book.douban.com/subject/26613061/",
   "isbn": "9787020111459",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28332484.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -4266,7 +4413,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a2c68cb1488fa604efd"
+    "$oid": "609a3eed5c71c2fa96292de5"
   },
   "name": "理想国",
   "author": [
@@ -4274,6 +4421,7 @@
   ],
   "url": "https://book.douban.com/subject/1004821/",
   "isbn": "9787100017565",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1068535.jpg",
   "press": "商务印书馆",
   "producer": null,
@@ -4290,7 +4438,7 @@
   "series": "汉译世界学术名著丛书·哲学"
 },{
   "_id": {
-    "$oid": "609a2a2e68cb1488fa604efe"
+    "$oid": "609a3eed5c71c2fa96292de6"
   },
   "name": "孙子兵法",
   "author": [
@@ -4298,6 +4446,7 @@
   ],
   "url": "https://book.douban.com/subject/1949420/",
   "isbn": "9787532544400",
+  "rating_value": "9.4",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2142329.jpg",
   "press": "上海古籍出版社",
   "producer": null,
@@ -4313,7 +4462,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a2f68cb1488fa604eff"
+    "$oid": "609a3ef15c71c2fa96292de7"
   },
   "name": "正见",
   "author": [
@@ -4321,6 +4470,7 @@
   ],
   "url": "https://book.douban.com/subject/1963912/",
   "isbn": "9787505722453",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1993421.jpg",
   "press": "中国友谊出版公司",
   "producer": null,
@@ -4336,7 +4486,29 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a3268cb1488fa604f00"
+    "$oid": "609a3ef35c71c2fa96292de8"
+  },
+  "name": "一句顶一万句",
+  "author": [
+    "刘震云"
+  ],
+  "url": "https://book.douban.com/subject/3633461/",
+  "isbn": "9787535439765",
+  "rating_value": "8.7",
+  "image": "https://img1.doubanio.com/view/subject/l/public/s6916838.jpg",
+  "press": "长江文艺出版社",
+  "producer": "长江新世纪",
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "2009-3",
+  "paginal_num": "362",
+  "price": "29.80",
+  "binding": "精装",
+  "series": "刘震云作品"
+},{
+  "_id": {
+    "$oid": "609a3ef65c71c2fa96292de9"
   },
   "name": "渴望生活",
   "author": [
@@ -4344,6 +4516,7 @@
   ],
   "url": "https://book.douban.com/subject/3054821/",
   "isbn": "9787530209127",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s3099438.jpg",
   "press": "北京十月文艺出版社",
   "producer": "新经典文化",
@@ -4359,7 +4532,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a3368cb1488fa604f01"
+    "$oid": "609a3ef85c71c2fa96292dea"
   },
   "name": "天朝的崩溃",
   "author": [
@@ -4367,6 +4540,7 @@
   ],
   "url": "https://book.douban.com/subject/1675478/",
   "isbn": "9787108022943",
+  "rating_value": "9.1",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1681072.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -4380,7 +4554,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a3768cb1488fa604f02"
+    "$oid": "609a3efb5c71c2fa96292deb"
   },
   "name": "茶馆",
   "author": [
@@ -4388,6 +4562,7 @@
   ],
   "url": "https://book.douban.com/subject/1036613/",
   "isbn": "9787020036509",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s33516550.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -4401,7 +4576,7 @@
   "series": "大学生必读"
 },{
   "_id": {
-    "$oid": "609a2a3a68cb1488fa604f03"
+    "$oid": "609a3eff5c71c2fa96292dec"
   },
   "name": "尼罗河上的惨案",
   "author": [
@@ -4409,6 +4584,7 @@
   ],
   "url": "https://book.douban.com/subject/1818347/",
   "isbn": "9787020056088",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1683067.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -4424,7 +4600,7 @@
   "series": "阿加莎·克里斯蒂侦探推理系列"
 },{
   "_id": {
-    "$oid": "609a2a3d68cb1488fa604f04"
+    "$oid": "609a3f015c71c2fa96292ded"
   },
   "name": "你好，旧时光（上 下）",
   "author": [
@@ -4432,6 +4608,7 @@
   ],
   "url": "https://book.douban.com/subject/4166819/",
   "isbn": "9787510407109",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s4293097.jpg",
   "press": "新世界出版社",
   "producer": "新华先锋",
@@ -4445,7 +4622,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a3e68cb1488fa604f05"
+    "$oid": "609a3f045c71c2fa96292dee"
   },
   "name": "万物有灵且美",
   "author": [
@@ -4453,6 +4630,7 @@
   ],
   "url": "https://book.douban.com/subject/4187411/",
   "isbn": "9787507421774",
+  "rating_value": "8.8",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4093514.jpg",
   "press": "中国城市出版社",
   "producer": null,
@@ -4468,7 +4646,7 @@
   "series": "吉米·哈利“万物”系列"
 },{
   "_id": {
-    "$oid": "609a2a4168cb1488fa604f06"
+    "$oid": "609a3f065c71c2fa96292def"
   },
   "name": "我的天才女友",
   "author": [
@@ -4476,6 +4654,7 @@
   ],
   "url": "https://book.douban.com/subject/26878124/",
   "isbn": "9787020120130",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s29164777.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -4491,7 +4670,7 @@
   "series": "那不勒斯四部曲"
 },{
   "_id": {
-    "$oid": "609a2a4368cb1488fa604f07"
+    "$oid": "609a3f095c71c2fa96292df0"
   },
   "name": "我不知道该说什么，关于死亡还是爱情",
   "author": [
@@ -4499,6 +4678,7 @@
   ],
   "url": "https://book.douban.com/subject/25884880/",
   "isbn": "9787536071377",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s28313152.jpg",
   "press": "花城出版社/铁葫芦图书",
   "producer": "磨铁·铁葫芦",
@@ -4515,7 +4695,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a4568cb1488fa604f08"
+    "$oid": "609a3f0a5c71c2fa96292df1"
   },
   "name": "激荡三十年",
   "author": [
@@ -4523,6 +4703,7 @@
   ],
   "url": "https://book.douban.com/subject/3151575/",
   "isbn": "9787508612102",
+  "rating_value": "8.6",
   "image": "https://img3.doubanio.com/view/subject/l/public/s3203360.jpg",
   "press": "中信出版社",
   "producer": null,
@@ -4536,29 +4717,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a4868cb1488fa604f09"
-  },
-  "name": "古文观止",
-  "author": [
-    "吴楚材",
-    "吴调侯"
-  ],
-  "url": "https://book.douban.com/subject/1014561/",
-  "isbn": "9787101000290",
-  "image": "https://img2.doubanio.com/view/subject/l/public/s1325863.jpg",
-  "press": "中华书局",
-  "producer": null,
-  "subtitle": null,
-  "original_title": null,
-  "translator": [],
-  "pub_date": "1987-1-1",
-  "paginal_num": "527",
-  "price": "21.00元",
-  "binding": "平装",
-  "series": null
-},{
-  "_id": {
-    "$oid": "609a2a4968cb1488fa604f0a"
+    "$oid": "609a3f0e5c71c2fa96292df2"
   },
   "name": "我的阿勒泰",
   "author": [
@@ -4566,6 +4725,7 @@
   ],
   "url": "https://book.douban.com/subject/4884218/",
   "isbn": "9787222065413",
+  "rating_value": "8.8",
   "image": "https://img1.doubanio.com/view/subject/l/public/s6180859.jpg",
   "press": "云南人民出版社",
   "producer": "英特颂",
@@ -4579,7 +4739,30 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a4c68cb1488fa604f0b"
+    "$oid": "609a3f0f5c71c2fa96292df3"
+  },
+  "name": "古文观止",
+  "author": [
+    "吴楚材",
+    "吴调侯"
+  ],
+  "url": "https://book.douban.com/subject/1014561/",
+  "isbn": "9787101000290",
+  "rating_value": "9.1",
+  "image": "https://img2.doubanio.com/view/subject/l/public/s1325863.jpg",
+  "press": "中华书局",
+  "producer": null,
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "1987-1-1",
+  "paginal_num": "527",
+  "price": "21.00元",
+  "binding": "平装",
+  "series": null
+},{
+  "_id": {
+    "$oid": "609a3f115c71c2fa96292df4"
   },
   "name": "故事",
   "author": [
@@ -4587,6 +4770,7 @@
   ],
   "url": "https://book.douban.com/subject/25976544/",
   "isbn": "9787201088334",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s27598249.jpg",
   "press": "天津人民出版社",
   "producer": "果麦文化",
@@ -4602,7 +4786,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a4e68cb1488fa604f0c"
+    "$oid": "609a3f135c71c2fa96292df5"
   },
   "name": "球状闪电",
   "author": [
@@ -4610,6 +4794,7 @@
   ],
   "url": "https://book.douban.com/subject/1192090/",
   "isbn": "9787536455382",
+  "rating_value": "8.7",
   "image": "https://img9.doubanio.com/view/subject/l/public/s26040205.jpg",
   "press": "四川科学技术出版社",
   "producer": "科幻世界",
@@ -4623,7 +4808,7 @@
   "series": "科幻世界·中国科幻基石丛书"
 },{
   "_id": {
-    "$oid": "609a2a5068cb1488fa604f0d"
+    "$oid": "609a3f155c71c2fa96292df6"
   },
   "name": "倾城之恋",
   "author": [
@@ -4631,6 +4816,7 @@
   ],
   "url": "https://book.douban.com/subject/1985223/",
   "isbn": "9787530208656",
+  "rating_value": "8.7",
   "image": "https://img3.doubanio.com/view/subject/l/public/s4638950.jpg",
   "press": "北京十月文艺出版社",
   "producer": "青马文化",
@@ -4644,7 +4830,7 @@
   "series": "张爱玲集"
 },{
   "_id": {
-    "$oid": "609a2a5268cb1488fa604f0e"
+    "$oid": "609a3f185c71c2fa96292df7"
   },
   "name": "绿毛水怪",
   "author": [
@@ -4652,6 +4838,7 @@
   ],
   "url": "https://book.douban.com/subject/3518332/",
   "isbn": "9787538725230",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s3675595.jpg",
   "press": "时代文艺出版社",
   "producer": null,
@@ -4665,7 +4852,7 @@
   "series": "时代文艺出版社 王小波系列"
 },{
   "_id": {
-    "$oid": "609a2a5468cb1488fa604f0f"
+    "$oid": "609a3f1a5c71c2fa96292df8"
   },
   "name": "亮剑",
   "author": [
@@ -4673,6 +4860,7 @@
   ],
   "url": "https://book.douban.com/subject/1088022/",
   "isbn": "9787503311864",
+  "rating_value": "8.9",
   "image": "https://img1.doubanio.com/view/subject/l/public/s9950828.jpg",
   "press": "解放军文艺出版社",
   "producer": null,
@@ -4686,7 +4874,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a5668cb1488fa604f10"
+    "$oid": "609a3f1c5c71c2fa96292df9"
   },
   "name": "情书",
   "author": [
@@ -4694,6 +4882,7 @@
   ],
   "url": "https://book.douban.com/subject/1080370/",
   "isbn": "9787201048161",
+  "rating_value": "8.6",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1127135.jpg",
   "press": "天津人民出版社",
   "producer": "新经典文化",
@@ -4709,7 +4898,7 @@
   "series": "新经典文库·岩井俊二作品"
 },{
   "_id": {
-    "$oid": "609a2a5968cb1488fa604f11"
+    "$oid": "609a3f1e5c71c2fa96292dfa"
   },
   "name": "送你一颗子弹",
   "author": [
@@ -4717,6 +4906,7 @@
   ],
   "url": "https://book.douban.com/subject/4238362/",
   "isbn": "9787542631664",
+  "rating_value": "8.6",
   "image": "https://img1.doubanio.com/view/subject/l/public/s4243447.jpg",
   "press": "上海三联书店",
   "producer": null,
@@ -4730,7 +4920,7 @@
   "series": "刘瑜作品系列"
 },{
   "_id": {
-    "$oid": "609a2a5b68cb1488fa604f12"
+    "$oid": "609a3f205c71c2fa96292dfb"
   },
   "name": "史蒂夫·乔布斯传",
   "author": [
@@ -4738,6 +4928,7 @@
   ],
   "url": "https://book.douban.com/subject/6798611/",
   "isbn": "9787508630069",
+  "rating_value": "8.7",
   "image": "https://img2.doubanio.com/view/subject/l/public/s6974202.jpg",
   "press": "中信出版社",
   "producer": null,
@@ -4757,7 +4948,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a5d68cb1488fa604f13"
+    "$oid": "609a3f245c71c2fa96292dfc"
   },
   "name": "一个陌生女人的来信",
   "author": [
@@ -4765,6 +4956,7 @@
   ],
   "url": "https://book.douban.com/subject/2154960/",
   "isbn": "9787532741571",
+  "rating_value": "8.7",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2611329.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -4780,7 +4972,7 @@
   "series": "斯蒂芬·茨威格作品集"
 },{
   "_id": {
-    "$oid": "609a2a6068cb1488fa604f14"
+    "$oid": "609a3f265c71c2fa96292dfd"
   },
   "name": "离开的，留下的",
   "author": [
@@ -4788,6 +4980,7 @@
   ],
   "url": "https://book.douban.com/subject/27104959/",
   "isbn": "9787020132003",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29535271.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -4803,7 +4996,7 @@
   "series": "那不勒斯四部曲"
 },{
   "_id": {
-    "$oid": "609a2a6268cb1488fa604f15"
+    "$oid": "609a3f275c71c2fa96292dfe"
   },
   "name": "孽子",
   "author": [
@@ -4811,6 +5004,7 @@
   ],
   "url": "https://book.douban.com/subject/5337254/",
   "isbn": "9787563397655",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s6240330.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -4824,7 +5018,7 @@
   "series": "理想国·白先勇作品"
 },{
   "_id": {
-    "$oid": "609a2a6568cb1488fa604f16"
+    "$oid": "609a3f2c5c71c2fa96292dff"
   },
   "name": "王尔德童话",
   "author": [
@@ -4832,6 +5026,7 @@
   ],
   "url": "https://book.douban.com/subject/1119839/",
   "isbn": "9787805676104",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2019056.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -4847,7 +5042,7 @@
   "series": "译林少儿文库"
 },{
   "_id": {
-    "$oid": "609a2a6768cb1488fa604f17"
+    "$oid": "609a3f2c5c71c2fa96292e00"
   },
   "name": "金色梦乡",
   "author": [
@@ -4855,6 +5050,7 @@
   ],
   "url": "https://book.douban.com/subject/5038409/",
   "isbn": "9787544713986",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4444885.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -4870,7 +5066,7 @@
   "series": "乐读文库"
 },{
   "_id": {
-    "$oid": "609a2a6a68cb1488fa604f18"
+    "$oid": "609a3f2f5c71c2fa96292e01"
   },
   "name": "人生的智慧",
   "author": [
@@ -4878,6 +5074,7 @@
   ],
   "url": "https://book.douban.com/subject/3261600/",
   "isbn": "9787208081178",
+  "rating_value": "9.2",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4619775.jpg",
   "press": "上海人民出版社",
   "producer": null,
@@ -4893,7 +5090,7 @@
   "series": "叔本华系列"
 },{
   "_id": {
-    "$oid": "609a2a6b68cb1488fa604f19"
+    "$oid": "609a3f325c71c2fa96292e02"
   },
   "name": "时间简史",
   "author": [
@@ -4901,6 +5098,7 @@
   ],
   "url": "https://book.douban.com/subject/1034282/",
   "isbn": "9787535732309",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1914861.jpg",
   "press": "湖南科学技术出版社",
   "producer": null,
@@ -4917,7 +5115,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a6e68cb1488fa604f1a"
+    "$oid": "609a3f355c71c2fa96292e03"
   },
   "name": "献给阿尔吉侬的花束",
   "author": [
@@ -4925,6 +5123,7 @@
   ],
   "url": "https://book.douban.com/subject/26362836/",
   "isbn": "9787549565115",
+  "rating_value": "9.1",
   "image": "https://img3.doubanio.com/view/subject/l/public/s28050760.jpg",
   "press": "广西师范大学出版社",
   "producer": "理想国",
@@ -4940,7 +5139,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a7168cb1488fa604f1b"
+    "$oid": "609a3f385c71c2fa96292e04"
   },
   "name": "唐诗三百首",
   "author": [
@@ -4949,6 +5148,7 @@
   ],
   "url": "https://book.douban.com/subject/1013267/",
   "isbn": "9787101001105",
+  "rating_value": "9.4",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1008848.jpg",
   "press": "中华书局",
   "producer": null,
@@ -4962,7 +5162,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a7368cb1488fa604f1c"
+    "$oid": "609a3f3a5c71c2fa96292e05"
   },
   "name": "道德经",
   "author": [
@@ -4970,6 +5170,7 @@
   ],
   "url": "https://book.douban.com/subject/1059258/",
   "isbn": "9787224034813",
+  "rating_value": "9.4",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1045431.jpg",
   "press": "陕西人民出版社",
   "producer": null,
@@ -4983,7 +5184,7 @@
   "series": "中国传统文化精品丛书"
 },{
   "_id": {
-    "$oid": "609a2a7568cb1488fa604f1d"
+    "$oid": "609a3f3d5c71c2fa96292e06"
   },
   "name": "最好的告别",
   "author": [
@@ -4991,6 +5192,7 @@
   ],
   "url": "https://book.douban.com/subject/26576861/",
   "isbn": "9787213067792",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s28355811.jpg",
   "press": "浙江人民出版社",
   "producer": "湛庐文化",
@@ -5006,7 +5208,7 @@
   "series": "湛庐文化·心视界"
 },{
   "_id": {
-    "$oid": "609a2a7868cb1488fa604f1e"
+    "$oid": "609a3f405c71c2fa96292e07"
   },
   "name": "巨人的陨落",
   "author": [
@@ -5014,6 +5216,7 @@
   ],
   "url": "https://book.douban.com/subject/26698660/",
   "isbn": "9787539989891",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s28668834.jpg",
   "press": "江苏凤凰文艺出版社",
   "producer": "读客文化",
@@ -5029,7 +5232,7 @@
   "series": "读客全球顶级畅销小说文库：肯·福莱特作品"
 },{
   "_id": {
-    "$oid": "609a2a7a68cb1488fa604f1f"
+    "$oid": "609a3f425c71c2fa96292e08"
   },
   "name": "一个叫欧维的男人决定去死",
   "author": [
@@ -5037,6 +5240,7 @@
   ],
   "url": "https://book.douban.com/subject/26672693/",
   "isbn": "9787541142185",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29071620.jpg",
   "press": "四川文艺出版社",
   "producer": "磨铁·大鱼读品",
@@ -5052,7 +5256,7 @@
   "series": "弗雷德里克·巴克曼 作品"
 },{
   "_id": {
-    "$oid": "609a2a7d68cb1488fa604f20"
+    "$oid": "609a3f455c71c2fa96292e09"
   },
   "name": "故事新编",
   "author": [
@@ -5060,6 +5264,7 @@
   ],
   "url": "https://book.douban.com/subject/2046909/",
   "isbn": "10019-1999",
+  "rating_value": "9.4",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2364685.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -5073,7 +5278,7 @@
   "series": "鲁迅作品集"
 },{
   "_id": {
-    "$oid": "609a2a7e68cb1488fa604f21"
+    "$oid": "609a3f475c71c2fa96292e0a"
   },
   "name": "我们仨",
   "author": [
@@ -5081,6 +5286,7 @@
   ],
   "url": "https://book.douban.com/subject/1023045/",
   "isbn": "9787108018809",
+  "rating_value": "8.7",
   "image": "https://img2.doubanio.com/view/subject/l/public/s1015872.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -5094,7 +5300,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a7f68cb1488fa604f22"
+    "$oid": "609a3f4a5c71c2fa96292e0b"
   },
   "name": "爱你就像爱生命",
   "author": [
@@ -5103,6 +5309,7 @@
   ],
   "url": "https://book.douban.com/subject/3071717/",
   "isbn": "9787806859988",
+  "rating_value": "8.8",
   "image": "https://img2.doubanio.com/view/subject/l/public/s4661043.jpg",
   "press": "上海锦绣文章出版社",
   "producer": "磨铁图书",
@@ -5116,7 +5323,7 @@
   "series": "王小波作品全集（磨铁2008版）"
 },{
   "_id": {
-    "$oid": "609a2a8168cb1488fa604f23"
+    "$oid": "609a3f4d5c71c2fa96292e0c"
   },
   "name": "鼠疫",
   "author": [
@@ -5124,6 +5331,7 @@
   ],
   "url": "https://book.douban.com/subject/24257229/",
   "isbn": "9787532761753",
+  "rating_value": "9.0",
   "image": "https://img3.doubanio.com/view/subject/l/public/s27003191.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -5139,7 +5347,7 @@
   "series": "加缪作品"
 },{
   "_id": {
-    "$oid": "609a2a8468cb1488fa604f24"
+    "$oid": "609a3f505c71c2fa96292e0d"
   },
   "name": "史记（全十册）",
   "author": [
@@ -5148,6 +5356,7 @@
   ],
   "url": "https://book.douban.com/subject/1077847/",
   "isbn": "9787101003048",
+  "rating_value": "9.5",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1953384.jpg",
   "press": "中华书局",
   "producer": null,
@@ -5163,7 +5372,7 @@
   "series": "点校本二十四史·清史稿"
 },{
   "_id": {
-    "$oid": "609a2a8768cb1488fa604f25"
+    "$oid": "609a3f535c71c2fa96292e0e"
   },
   "name": "许三观卖血记",
   "author": [
@@ -5171,6 +5380,7 @@
   ],
   "url": "https://book.douban.com/subject/1029791/",
   "isbn": "9787544211765",
+  "rating_value": "8.8",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1074291.jpg",
   "press": "南海出版公司",
   "producer": null,
@@ -5184,7 +5394,7 @@
   "series": "余华作品"
 },{
   "_id": {
-    "$oid": "609a2a8968cb1488fa604f26"
+    "$oid": "609a3f555c71c2fa96292e0f"
   },
   "name": "邓小平时代",
   "author": [
@@ -5192,6 +5402,7 @@
   ],
   "url": "https://book.douban.com/subject/20424526/",
   "isbn": "9787108041531",
+  "rating_value": "9.2",
   "image": "https://img1.doubanio.com/view/subject/l/public/s24516687.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -5207,7 +5418,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2a8c68cb1488fa604f27"
+    "$oid": "609a3f585c71c2fa96292e10"
   },
   "name": "树上的男爵",
   "author": [
@@ -5215,6 +5426,7 @@
   ],
   "url": "https://book.douban.com/subject/6789605/",
   "isbn": "9787544722803",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s8968135.jpg",
   "press": "译林出版社",
   "producer": null,
@@ -5230,7 +5442,7 @@
   "series": "卡尔维诺经典"
 },{
   "_id": {
-    "$oid": "609a2a8e68cb1488fa604f28"
+    "$oid": "609a3f5a5c71c2fa96292e11"
   },
   "name": "朝花夕拾",
   "author": [
@@ -5238,6 +5450,7 @@
   ],
   "url": "https://book.douban.com/subject/1449352/",
   "isbn": "10019-1985",
+  "rating_value": "8.9",
   "image": "https://img2.doubanio.com/view/subject/l/public/s2875823.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -5251,7 +5464,7 @@
   "series": "鲁迅作品集"
 },{
   "_id": {
-    "$oid": "609a2a9168cb1488fa604f29"
+    "$oid": "609a3f5c5c71c2fa96292e12"
   },
   "name": "神雕侠侣",
   "author": [
@@ -5259,6 +5472,7 @@
   ],
   "url": "https://book.douban.com/subject/1255624/",
   "isbn": "9787108006660",
+  "rating_value": "8.9",
   "image": "https://img9.doubanio.com/view/subject/l/public/s26018916.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -5274,7 +5488,7 @@
   "series": "金庸作品集（三联版）"
 },{
   "_id": {
-    "$oid": "609a2a9368cb1488fa604f2a"
+    "$oid": "609a3f5f5c71c2fa96292e13"
   },
   "name": "彷徨",
   "author": [
@@ -5282,6 +5496,7 @@
   ],
   "url": "https://book.douban.com/subject/1449348/",
   "isbn": "10019-1982",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s33500305.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -5295,7 +5510,7 @@
   "series": "鲁迅作品集"
 },{
   "_id": {
-    "$oid": "609a2a9568cb1488fa604f2b"
+    "$oid": "609a3f615c71c2fa96292e14"
   },
   "name": "历史深处的忧虑",
   "author": [
@@ -5303,6 +5518,7 @@
   ],
   "url": "https://book.douban.com/subject/1027191/",
   "isbn": "9787108010186",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1768916.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -5316,7 +5532,7 @@
   "series": "林达作品系列"
 },{
   "_id": {
-    "$oid": "609a2a9668cb1488fa604f2c"
+    "$oid": "609a3f645c71c2fa96292e15"
   },
   "name": "艺术的故事",
   "author": [
@@ -5324,6 +5540,7 @@
   ],
   "url": "https://book.douban.com/subject/3162991/",
   "isbn": "9787807463726",
+  "rating_value": "9.6",
   "image": "https://img2.doubanio.com/view/subject/l/public/s3219163.jpg",
   "press": "广西美术出版社",
   "producer": null,
@@ -5340,7 +5557,7 @@
   "series": "贡布里希文集"
 },{
   "_id": {
-    "$oid": "609a2a9968cb1488fa604f2d"
+    "$oid": "609a3f675c71c2fa96292e16"
   },
   "name": "追风筝的人",
   "author": [
@@ -5348,6 +5565,7 @@
   ],
   "url": "https://book.douban.com/subject/1770782/",
   "isbn": "9787208061644",
+  "rating_value": "8.9",
   "image": "https://img3.doubanio.com/view/subject/l/public/s1727290.jpg",
   "press": "上海人民出版社",
   "producer": "世纪文景",
@@ -5363,7 +5581,7 @@
   "series": "卡勒德·胡赛尼作品"
 },{
   "_id": {
-    "$oid": "609a2a9b68cb1488fa604f2e"
+    "$oid": "609a3f6a5c71c2fa96292e17"
   },
   "name": "新名字的故事",
   "author": [
@@ -5371,6 +5589,7 @@
   ],
   "url": "https://book.douban.com/subject/26986954/",
   "isbn": "9787020125265",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s29376146.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -5386,7 +5605,7 @@
   "series": "那不勒斯四部曲"
 },{
   "_id": {
-    "$oid": "609a2a9e68cb1488fa604f2f"
+    "$oid": "609a3f6d5c71c2fa96292e18"
   },
   "name": "东方快车谋杀案",
   "author": [
@@ -5394,6 +5613,7 @@
   ],
   "url": "https://book.douban.com/subject/1827374/",
   "isbn": "9787020056309",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s1765799.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -5409,7 +5629,7 @@
   "series": "阿加莎·克里斯蒂侦探推理系列"
 },{
   "_id": {
-    "$oid": "609a2aa068cb1488fa604f30"
+    "$oid": "609a3f6f5c71c2fa96292e19"
   },
   "name": "基督山伯爵",
   "author": [
@@ -5417,6 +5637,7 @@
   ],
   "url": "https://book.douban.com/subject/1085860/",
   "isbn": "9787532712243",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s3248016.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -5433,7 +5654,7 @@
   "series": null
 },{
   "_id": {
-    "$oid": "609a2aa268cb1488fa604f31"
+    "$oid": "609a3f725c71c2fa96292e1a"
   },
   "name": "月亮和六便士",
   "author": [
@@ -5441,6 +5662,7 @@
   ],
   "url": "https://book.douban.com/subject/1858513/",
   "isbn": "9787532739547",
+  "rating_value": "9.0",
   "image": "https://img1.doubanio.com/view/subject/l/public/s2659208.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -5456,7 +5678,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a2aa568cb1488fa604f32"
+    "$oid": "609a3f745c71c2fa96292e1b"
   },
   "name": "肖申克的救赎",
   "author": [
@@ -5464,6 +5686,7 @@
   ],
   "url": "https://book.douban.com/subject/1829226/",
   "isbn": "9787020054985",
+  "rating_value": "9.1",
   "image": "https://img9.doubanio.com/view/subject/l/public/s4007145.jpg",
   "press": "人民文学出版社",
   "producer": "99读书人",
@@ -5481,7 +5704,7 @@
   "series": "斯蒂芬·金作品：人文版"
 },{
   "_id": {
-    "$oid": "609a2aa868cb1488fa604f33"
+    "$oid": "609a3f775c71c2fa96292e1c"
   },
   "name": "中国历代政治得失",
   "author": [
@@ -5489,6 +5712,7 @@
   ],
   "url": "https://book.douban.com/subject/1003479/",
   "isbn": "9787108015280",
+  "rating_value": "9.2",
   "image": "https://img9.doubanio.com/view/subject/l/public/s1319205.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -5502,7 +5726,7 @@
   "series": "钱穆作品系列"
 },{
   "_id": {
-    "$oid": "609a2aaa68cb1488fa604f34"
+    "$oid": "609a3f795c71c2fa96292e1d"
   },
   "name": "笑傲江湖（全四册）",
   "author": [
@@ -5510,6 +5734,7 @@
   ],
   "url": "https://book.douban.com/subject/1002299/",
   "isbn": "9787108006639",
+  "rating_value": "9.0",
   "image": "https://img9.doubanio.com/view/subject/l/public/s2157335.jpg",
   "press": "生活·读书·新知三联书店",
   "producer": null,
@@ -5523,7 +5748,7 @@
   "series": "金庸作品集（三联版）"
 },{
   "_id": {
-    "$oid": "609a2aad68cb1488fa604f35"
+    "$oid": "609a3f7c5c71c2fa96292e1e"
   },
   "name": "呐喊",
   "author": [
@@ -5531,6 +5756,7 @@
   ],
   "url": "https://book.douban.com/subject/1449351/",
   "isbn": "10019-1979",
+  "rating_value": "9.0",
   "image": "https://img2.doubanio.com/view/subject/l/public/s4696893.jpg",
   "press": "人民文学出版社",
   "producer": null,
@@ -5544,7 +5770,7 @@
   "series": "鲁迅作品集"
 },{
   "_id": {
-    "$oid": "609a2ab068cb1488fa604f36"
+    "$oid": "609a3f805c71c2fa96292e1f"
   },
   "name": "动物农场",
   "author": [
@@ -5552,6 +5778,7 @@
   ],
   "url": "https://book.douban.com/subject/2035179/",
   "isbn": "9787532741854",
+  "rating_value": "9.2",
   "image": "https://img3.doubanio.com/view/subject/l/public/s2347590.jpg",
   "press": "上海译文出版社",
   "producer": null,
@@ -5567,7 +5794,7 @@
   "series": "译文名著文库"
 },{
   "_id": {
-    "$oid": "609a2ab268cb1488fa604f37"
+    "$oid": "609a3f825c71c2fa96292e20"
   },
   "name": "房思琪的初恋乐园",
   "author": [
@@ -5575,6 +5802,7 @@
   ],
   "url": "https://book.douban.com/subject/27614904/",
   "isbn": "9787559614636",
+  "rating_value": "9.2",
   "image": "https://img3.doubanio.com/view/subject/l/public/s29651121.jpg",
   "press": "北京联合出版公司",
   "producer": "磨铁图书",
@@ -5586,4 +5814,26 @@
   "price": "45.00元",
   "binding": "平装",
   "series": null
+},{
+  "_id": {
+    "$oid": "609a3f855c71c2fa96292e21"
+  },
+  "name": "三国演义（全二册）",
+  "author": [
+    "[明] 罗贯中"
+  ],
+  "url": "https://book.douban.com/subject/1019568/",
+  "isbn": "9787020008728",
+  "rating_value": "9.3",
+  "image": "https://img2.doubanio.com/view/subject/l/public/s1076932.jpg",
+  "press": "人民文学出版社",
+  "producer": null,
+  "subtitle": null,
+  "original_title": null,
+  "translator": [],
+  "pub_date": "1998-05",
+  "paginal_num": "990",
+  "price": "39.50元",
+  "binding": "平装",
+  "series": "中国古典文学读本丛书"
 }]

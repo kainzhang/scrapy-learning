@@ -4,6 +4,7 @@
 
 + 个人博客文章爬虫
 + 豆瓣电影 TOP250 爬虫
++ 豆瓣读书 TOP250 爬虫
 
 ## 环境搭建
 Python3, Scrapy, virtualenv(optional), MongoDB

@@ -31,23 +31,20 @@ def main():
         time.sleep(2)
         browser.find_element_by_xpath('//a[contains(./text(), "登录豆瓣")]').click()
 
+        # 验证成功登录
         locator = (By.CLASS_NAME, 'nav-user-account')
         WebDriverWait(browser, PAGE_TIMEOUT).until((EC.presence_of_element_located(locator)))
+
+        # 获取 cookies
         selenium_cookies = browser.get_cookies()
         print(f'Selenium Cookies = {selenium_cookies}')
 
     except Exception as e:
         print(f'Exception = {e}')
 
-    # cookie = [item["name"] + ":" + item["value"] for item in selenium_cookies]
-    # processed_cookie = {}
-    # for elem in cookie:
-    #     tmp_str = elem.split(':')
-    #     processed_cookie[tmp_str[0]] = tmp_str[1]
-    # print(f'Processed Cookies = {processed_cookie}')
-
     finally:
         browser.close()
+
 
 if __name__ == '__main__':
     main()

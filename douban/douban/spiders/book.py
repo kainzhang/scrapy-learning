@@ -1,4 +1,5 @@
 import json
+import re
 
 import scrapy
 from douban.items import BookItem
@@ -40,6 +41,7 @@ class BookSpider(scrapy.Spider):
             response.xpath('//script[@type="application/ld+json"]//text()').extract_first(),
             strict=False
         )
+        item['id'] = re.sub(r'\D', "", data['url'])
         item['name'] = data['name']
         item['author'] = [a['name'] for a in data['author']]
         item['url'] = data['url']
@@ -50,6 +52,12 @@ class BookSpider(scrapy.Spider):
         item['rating_value'] = response.xpath(
             'normalize-space(//strong[@class="ll rating_num "]/text())'
         ).extract_first()
+        item['stars5'] = response.xpath('//span[@class="stars5 starstop"]/following::span/text()').extract_first()
+        item['stars4'] = response.xpath('//span[@class="stars4 starstop"]/following::span/text()').extract_first()
+        item['stars3'] = response.xpath('//span[@class="stars3 starstop"]/following::span/text()').extract_first()
+        item['stars2'] = response.xpath('//span[@class="stars2 starstop"]/following::span/text()').extract_first()
+        item['stars1'] = response.xpath('//span[@class="stars1 starstop"]/following::span/text()').extract_first()
+
         # 封面图片
         item['image'] = response.xpath(
             '//a[@class="nbg"]/@href'

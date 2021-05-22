@@ -7,10 +7,22 @@
 + 豆瓣读书 TOP250 爬虫
 
 ## 环境搭建
-Python3, Scrapy, virtualenv(optional), MongoDB
+
+### 主要依赖
++ Python3
++ Scrapy
++ Selenium
+
+### 数据库
++ MongoDB
+
+### 安装依赖
 ```
 pip3 install scrapy
+pip3 install selenium
 ```
+
+## 运行流程
 
 创建项目（示例）
 ```
@@ -23,8 +35,6 @@ cd douban
 scrapy genspider movie movie.douban.com
 ```
 
-
-## 运行流程
 项目是用 PyCharm 创建的普通 Python项目，需要用终端运行，在根目录下先 cd 进入爬虫项目
 ```
 cd douban
@@ -34,6 +44,6 @@ cd douban
 scrapy crawl movie
 ```
 
-## 查看数据
+## 数据查看
 可使用 MongoDB Compass 查看及导出数据
 ![](https://cdn.jsdelivr.net/gh/kainzhang/kz-img/img/21/05/11/20210511103523.png)

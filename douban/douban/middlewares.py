@@ -2,12 +2,48 @@
 #
 # See documentation in:
 # https://docs.scrapy.org/en/latest/topics/spider-middleware.html
+# useful for handling different item types with a single interface
+import json
+import time
 
 from scrapy import signals
+from scrapy.http import HtmlResponse
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.support.wait import WebDriverWait
 
-# useful for handling different item types with a single interface
-from itemadapter import is_item, ItemAdapter
 
+# 使用 Selenium 实现手动豆瓣用户登录
+class DoubanSeleniumMiddleware:
+    def process_request(self, request, spider):
+        # 判断是否需要使用 Selenium
+        use_selenium = request.meta.get('useSelenium')
+        if use_selenium:
+            print('-' * 15 + '正在登录！')
+            with open('douban/userinfo.json', mode='r', encoding='utf-8') as f:
+                user = json.load(f)['douban']
+            login_url = 'https://accounts.douban.com/passport/login'
+            try:
+                print('-' * 15 + request.url)
+                spider.browser.get(login_url)
+                locator = (By.CLASS_NAME, 'account-tab-account')
+                WebDriverWait(spider.browser, 30).until(EC.presence_of_element_located(locator))
+                spider.browser.find_element_by_class_name('account-tab-account').click()
+                spider.browser.find_element_by_id('username').send_keys(user['username'])
+                spider.browser.find_element_by_id('password').send_keys(user['password'])
+                time.sleep(2)
+                spider.browser.find_element_by_xpath('//a[contains(./text(), "登录豆瓣")]').click()
+
+                locator = (By.CLASS_NAME, 'nav-user-account')
+                WebDriverWait(spider.browser, 30).until((EC.presence_of_element_located(locator)))
+                selenium_cookies = spider.browser.get_cookies()
+                # print(f'[Selenium Cookies] = {selenium_cookies}')
+            except Exception as e:
+                print(e)
+                return HtmlResponse(url=request.url, status=500, request=request)
+            else:
+                request.cookies = selenium_cookies
+                request.meta['useSelenium'] = False
 
 class DoubanSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,

@@ -16,13 +16,15 @@ class DoubanPipeline:
             self.collection = client['douban']['movie']
         elif spider.name == 'book':
             self.collection = client['douban']['book']
+        elif spider.name == 'comment':
+            self.collection = client['douban']['comment']
 
     def process_item(self, item, spider):
         if spider.name == 'movie':
             self.collection.insert(dict(item))
             # print(item)
 
-        if spider.name == 'book':
+        elif spider.name == 'book':
             for key in item:
                 if isinstance(item[key], str) and item[key] == '':
                     item[key] = None
@@ -30,6 +32,9 @@ class DoubanPipeline:
                     item[key] = [i for i in item[key] if i != '']
             self.collection.insert(dict(item))
             # print(item)
+
+        elif spider.name == 'comment':
+            self.collection.insert(dict(item))
 
         return item
 

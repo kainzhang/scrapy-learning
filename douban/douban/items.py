@@ -70,3 +70,17 @@ class BookItem(scrapy.Item):
     # 丛书
     series = scrapy.Field()
 
+
+class CommentItem(scrapy.Item):
+    id = scrapy.Field()
+
+    # 评论类型：电影评论，图书评论
+    comment_type = scrapy.Field()
+    # 所属对象的id：电影id，图书id
+    dad_id = scrapy.Field()
+    author = scrapy.Field()
+    author_url = scrapy.Field()
+    rating_val = scrapy.Field()
+    pub_date = scrapy.Field()
+    content = scrapy.Field()
+

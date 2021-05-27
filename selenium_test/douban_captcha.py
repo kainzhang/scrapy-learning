@@ -20,6 +20,7 @@ def get_img(driver):
 
     urlretrieve(src0, 'img0.png')
     urlretrieve(src1, 'img1.png')
+    time.sleep(3)
     img0 = Image.open('img0.png')
     img1 = Image.open('img1.png')
     """
@@ -54,6 +55,7 @@ def get_distance(img0, img1):
 
 
 def get_track(distance):
+    print(f'distance= {distance}')
     t = 0.2
     v = 0
     distance -= 43
@@ -64,9 +66,8 @@ def get_track(distance):
     s = 0
     while s < distance:
         v0 = v
-        if s < mid:
-            a = 30
-        else:
+        a = 30
+        if s > mid:
             a = -3
 
         s0 = v0 * t + 0.5 * a * t * t  # 当前 t 时间的移动距离
@@ -77,11 +78,12 @@ def get_track(distance):
 
 
 def finish_captcha(driver):
+    locator = (By.ID, 'tcaptcha_iframe')
+    WebDriverWait(driver, 30).until((EC.presence_of_element_located(locator)))
+    driver.switch_to.frame('tcaptcha_iframe')
+    time.sleep(2)
+
     while True:
-        locator = (By.ID, 'tcaptcha_iframe')
-        WebDriverWait(driver, 30).until((EC.presence_of_element_located(locator)))
-        driver.switch_to.frame('tcaptcha_iframe')
-        time.sleep(2)
         locator = (By.ID, 'slideBg')
         WebDriverWait(driver, 30).until((EC.presence_of_element_located(locator)))
 
@@ -90,7 +92,6 @@ def finish_captcha(driver):
         tracks = get_track(distance)
 
         block = driver.find_element_by_id('tcaptcha_drag_button')
-        reload = driver.find_element_by_id('reload')
 
         ActionChains(driver).click_and_hold(block).perform()
         for track in tracks:
@@ -100,9 +101,8 @@ def finish_captcha(driver):
 
         if driver.title == "登录豆瓣":
             print('failed, try once again')
+            reload = driver.find_element_by_id('reload')
             reload.click()
-            locator = (By.ID, 'slideBg')
-            WebDriverWait(driver, 30).until((EC.presence_of_element_located(locator)))
         else:
             break
 

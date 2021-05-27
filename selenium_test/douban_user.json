@@ -1,5 +1,9 @@
 {
   "user1": {
+    "username": "username@qq.com",
+    "password": "password"
+  },
+  "user2": {
     "username": "",
     "password": ""
   }

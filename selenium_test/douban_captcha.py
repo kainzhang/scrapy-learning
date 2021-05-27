@@ -18,11 +18,14 @@ def get_img(driver):
     src0 = src0.replace('subsid=3', 'subsid=2')
     print(src0)
 
-    urlretrieve(src0, 'img0.png')
-    urlretrieve(src1, 'img1.png')
+    now_str = str(int(round(time.time() * 1000)))
+    img0_name = now_str + '-0.png'
+    img1_name = now_str + '-1.png'
+    urlretrieve(src0, './captcha_img/' + img0_name)
+    urlretrieve(src1, './captcha_img/' + img1_name)
     time.sleep(3)
-    img0 = Image.open('img0.png')
-    img1 = Image.open('img1.png')
+    img0 = Image.open('./captcha_img/' + img0_name)
+    img1 = Image.open('./captcha_img/' + img1_name)
     """
     下载的图片尺寸：680 * 390
     验证码图片尺寸：340 * 195 

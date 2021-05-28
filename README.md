@@ -24,10 +24,11 @@
 ```
 pip install scrapy
 pip install selenium
+pip install pillow
 ```
-在 Python 目录的 bin 文件夹内放入 Chromedriver，或放在喜欢的路径并在代码中配置（已经放在爬虫项目根目录并配置）
+在 Python 目录的 bin 文件夹内合适版本的 Chromedriver，或放在喜欢的路径并在代码中配置（已经放在爬虫项目根目录并配置）
 
-## 运行流程
+## 🏄 运行爬虫
 
 创建项目（示例）
 ```
@@ -44,9 +45,14 @@ scrapy genspider movie movie.douban.com
 ```
 cd douban
 ```
-确保 MongoDB Server 开启，然后执行爬虫指令
+
+### 🕷️ 豆瓣电影 / 读书爬虫
+
+默认抓取豆瓣电影（读书）的 TOP250 电影，可以修改为单一作品的信息抓取
+
 ```
 scrapy crawl movie
+scrapy crawl book
 ```
 
 ### 🕷️ 豆瓣热门短评爬虫
@@ -64,6 +70,6 @@ scrapy crawl comment -a douban_type=1 -a douban_id=1292052
 scrapy crawl comment -a douban_type=2 -a douban_id=6082808
 ```
 
-## 数据查看
+## 🧑‍💻 数据查看
 可使用 MongoDB Compass 查看及导出数据
 ![](https://cdn.jsdelivr.net/gh/kainzhang/kz-img/img/21/05/11/20210511103523.png)

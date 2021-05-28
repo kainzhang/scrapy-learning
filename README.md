@@ -5,24 +5,27 @@
 + 个人博客文章爬虫
 + 豆瓣电影 TOP250 爬虫
 + 豆瓣读书 TOP250 爬虫
-+ 豆瓣电影/读书 热门评论爬虫
++ 豆瓣电影/读书 热门评论爬虫（支持自动登录和完成验证码）
 
-## 环境搭建
+## 🚀 环境搭建
 
 ### 主要依赖
-+ Python3
-+ Scrapy
-+ Selenium
++ python3
++ scrapy
++ selenium
++ pillow
 
 ### 数据库
 + MongoDB
 
+`运行爬虫前确保已运行 MongoDB Server`
+
 ### 安装依赖
 ```
-pip3 install scrapy
-pip3 install selenium
+pip install scrapy
+pip install selenium
 ```
-在 Python 目录的 bin 文件夹内放入 Chromedriver，或放在喜欢的路径（已经放在爬虫项目根目录并配置）
+在 Python 目录的 bin 文件夹内放入 Chromedriver，或放在喜欢的路径并在代码中配置（已经放在爬虫项目根目录并配置）
 
 ## 运行流程
 
@@ -49,7 +52,7 @@ scrapy crawl movie
 ### 🕷️ 豆瓣热门短评爬虫
 热门短评在不登录情况下最多爬取220条，登录后最多爬取500条，由于热度动态改变，可能爬不满220或500（可能有重复）<br>
 
-用户登录采用了手动登录，需要填写个人用户名和密码，运行爬虫时会弹出登录页面，手动拖动滑块完成登录验证<br>
+使用selenium模拟用户登录，需要在 `douban/douban/userinfo.json` 填写豆瓣用户名和密码，运行爬虫时会弹出浏览器页面，自动或手动完成滑块验证<br>
 
 豆瓣热门短评爬虫包括豆瓣电影和读书的热门短评爬取，为区分内容，为 spider 添加了两个参数，分别为评论类型和评论对象的ID，指令示例如下
 

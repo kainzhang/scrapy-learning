@@ -43,6 +43,7 @@ class CommentSpider(scrapy.Spider):
             print('-' * 15 + ' [Douban Book][' + self.item_dad + '][Comments] ' + '-' * 15)
             self.root_url = 'https://book.douban.com/subject/%s/comments' % self.item_dad
             self.start_urls = ['https://book.douban.com/subject/%s/comments' % self.item_dad]
+            # self.start_urls = ['https://book.douban.com/subject/1084336/comments/?start=200&limit=20&status=P&sort=new_score']
 
         my_settings = get_project_settings()
         self.browser = webdriver.Chrome('douban/chromedriver')
@@ -77,6 +78,10 @@ class CommentSpider(scrapy.Spider):
 
         elif self.COMMENT_TYPE[self.item_type] == 'book':
             comment_list = response.xpath('//div[@id="comments"]//li[@class="comment-item"]')
+            if len(comment_list) == 0:
+                print('GG - len')
+                return
+
             for comment in comment_list:
                 item = CommentItem()
                 item['id'] = comment.xpath('@data-cid').extract_first()

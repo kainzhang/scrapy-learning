@@ -12,6 +12,7 @@
 ### 主要依赖
 + python3
 + scrapy
++ pymongo
 + selenium
 + pillow
 
@@ -23,6 +24,7 @@
 ### 安装依赖
 ```
 pip install scrapy
+pip install pymongo
 pip install selenium
 pip install pillow
 ```
